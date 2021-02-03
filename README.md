@@ -2,6 +2,8 @@ Hi!
 
 I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop software using the PHP programming language then you may have come across my name. I am the creator and maintainer of [PHPUnit](https://phpunit.de/) as well as many other libraries and tools that are commonly used.
 
+![](https://github-readme-stats.vercel.app/api?username=sebastianbergmann&show_icons=true "Github Stats")
+
 ---
 
 #### 👷 Check out what I'm currently working on
