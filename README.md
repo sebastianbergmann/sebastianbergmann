@@ -6,11 +6,11 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/docker-amiga-gcc](https://github.com/sebastianbergmann/docker-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (4 days ago)
-- [sebastianbergmann/docker-amitools](https://github.com/sebastianbergmann/docker-amitools) - Dockerfile for Christian Vogelgsang&#39;s amitools (4 days ago)
-- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (4 days ago)
-- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (1 week ago)
+- [sebastianbergmann/docker-amiga-gcc](https://github.com/sebastianbergmann/docker-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (5 days ago)
+- [sebastianbergmann/docker-amitools](https://github.com/sebastianbergmann/docker-amitools) - Dockerfile for Christian Vogelgsang&#39;s amitools (5 days ago)
+- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (5 days ago)
+- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (2 weeks ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (2 weeks ago)
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (2 weeks ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (2 weeks ago)
@@ -33,7 +33,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 - [Refactoring](https://thephp.cc/news/2021/01/refactoring) (1 month ago)
 - [Your Password to Planet Argon](https://thephp.cc/news/2021/01/your-password-to-planet-argon) (1 month ago)
 - [Here is your homework](https://thephp.cc/news/2021/01/here-is-your-homework) (1 month ago)
-- [The Value of Objects](https://thephp.cc/news/2021/01/the-value-of-objects) (1 month ago)
+- [The Value of Objects](https://thephp.cc/news/2021/01/the-value-of-objects) (2 months ago)
 - [PHP 8 and WordPress](https://thephp.cc/news/2021/01/php8-and-wordpress) (2 months ago)
 
 ---
