@@ -21,7 +21,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [templado/engine](https://github.com/templado/engine) ([4.0.6](https://github.com/templado/engine/releases/tag/4.0.6), today) - A pragmatic approach to templating for PHP 7.x
+- [templado/engine](https://github.com/templado/engine) ([4.0.6](https://github.com/templado/engine/releases/tag/4.0.6), today) - A pragmatic approach to templating for PHP 7.x&#43;
 - [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) ([0.5.1](https://github.com/vimeo/php-mysql-engine/releases/tag/0.5.1), 1 week ago) - A MySQL engine written in pure PHP
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v4.10.4](https://github.com/nikic/PHP-Parser/releases/tag/v4.10.4), 3 months ago) - A PHP parser written in PHP
 - [phpspec/prophecy-phpunit](https://github.com/phpspec/prophecy-phpunit) ([v2.0.1](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.1), 3 months ago) - Integrating Prophecy in PHPUnit test cases
