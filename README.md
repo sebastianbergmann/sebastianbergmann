@@ -6,8 +6,8 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (3 days ago)
-- [sebastianbergmann/docker-amiga-gcc](https://github.com/sebastianbergmann/docker-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (6 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (4 days ago)
+- [sebastianbergmann/docker-amiga-gcc](https://github.com/sebastianbergmann/docker-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (1 week ago)
 - [sebastianbergmann/docker-amitools](https://github.com/sebastianbergmann/docker-amitools) - Dockerfile for Christian Vogelgsang&#39;s amitools (1 week ago)
 - [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) - Traverses array structures and object graphs to enumerate all referenced objects (1 week ago)
 - [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (1 week ago)
@@ -21,8 +21,8 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) ([0.5.2](https://github.com/vimeo/php-mysql-engine/releases/tag/0.5.2), 2 days ago) - A MySQL engine written in pure PHP
-- [templado/engine](https://github.com/templado/engine) ([4.0.6](https://github.com/templado/engine/releases/tag/4.0.6), 6 days ago) - A pragmatic approach to templating for PHP 7.x&#43;
+- [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) ([0.5.2](https://github.com/vimeo/php-mysql-engine/releases/tag/0.5.2), 3 days ago) - A MySQL engine written in pure PHP
+- [templado/engine](https://github.com/templado/engine) ([4.0.6](https://github.com/templado/engine/releases/tag/4.0.6), 1 week ago) - A pragmatic approach to templating for PHP 7.x&#43;
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v4.10.4](https://github.com/nikic/PHP-Parser/releases/tag/v4.10.4), 3 months ago) - A PHP parser written in PHP
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2019.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2019.3), 1 year ago) - PHP runtime &amp; extensions header files for PhpStorm
 
