@@ -6,7 +6,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/docker-amiga-gcc](https://github.com/sebastianbergmann/docker-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (4 days ago)
+- [sebastianbergmann/docker-amiga-gcc](https://github.com/sebastianbergmann/docker-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (5 days ago)
 - [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) - Library for counting the lines of code in PHP source code (1 week ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (1 week ago)
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (1 week ago)
@@ -21,7 +21,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) ([0.5.5](https://github.com/vimeo/php-mysql-engine/releases/tag/0.5.5), 3 days ago) - A MySQL engine written in pure PHP
+- [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) ([0.5.5](https://github.com/vimeo/php-mysql-engine/releases/tag/0.5.5), 4 days ago) - A MySQL engine written in pure PHP
 - [templado/engine](https://github.com/templado/engine) ([4.0.6](https://github.com/templado/engine/releases/tag/4.0.6), 3 weeks ago) - A pragmatic approach to templating for PHP 7.x&#43;
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v4.10.4](https://github.com/nikic/PHP-Parser/releases/tag/v4.10.4), 3 months ago) - A PHP parser written in PHP
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2019.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2019.3), 1 year ago) - PHP runtime &amp; extensions header files for PhpStorm
@@ -31,7 +31,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 #### 📜 My recent blog posts
 
 - [Refactoring](https://thephp.cc/news/2021/01/refactoring) (2 months ago)
-- [Your Password to Planet Argon](https://thephp.cc/news/2021/01/your-password-to-planet-argon) (2 months ago)
+- [Your Password to Planet Argon](https://thephp.cc/news/2021/01/your-password-to-planet-argon) (3 months ago)
 - [Here is your homework](https://thephp.cc/news/2021/01/here-is-your-homework) (3 months ago)
 - [The Value of Objects](https://thephp.cc/news/2021/01/the-value-of-objects) (3 months ago)
 - [PHP 8 and WordPress](https://thephp.cc/news/2021/01/php8-and-wordpress) (3 months ago)
