@@ -6,7 +6,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/docker-amiga-gcc](https://github.com/sebastianbergmann/docker-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (today)
+- [sebastianbergmann/docker-amiga-gcc](https://github.com/sebastianbergmann/docker-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (1 day ago)
 - [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) - Invoke PHP callables with a timeout (1 week ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (1 week ago)
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (1 week ago)
@@ -21,8 +21,8 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2021.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2021.1), today) - PHP runtime &amp; extensions header files for PhpStorm
-- [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) ([0.5.5](https://github.com/vimeo/php-mysql-engine/releases/tag/0.5.5), 5 days ago) - A MySQL engine written in pure PHP
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2021.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2021.1), 1 day ago) - PHP runtime &amp; extensions header files for PhpStorm
+- [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) ([0.5.5](https://github.com/vimeo/php-mysql-engine/releases/tag/0.5.5), 6 days ago) - A MySQL engine written in pure PHP
 - [templado/engine](https://github.com/templado/engine) ([4.0.6](https://github.com/templado/engine/releases/tag/4.0.6), 3 weeks ago) - A pragmatic approach to templating for PHP 7.x&#43;
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v4.10.4](https://github.com/nikic/PHP-Parser/releases/tag/v4.10.4), 3 months ago) - A PHP parser written in PHP
 
