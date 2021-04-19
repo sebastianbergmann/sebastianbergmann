@@ -6,9 +6,9 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 day ago)
-- [sebastianbergmann/docker-amitools](https://github.com/sebastianbergmann/docker-amitools) - Dockerfile for Christian Vogelgsang&#39;s amitools (1 day ago)
-- [sebastianbergmann/docker-amiga-gcc](https://github.com/sebastianbergmann/docker-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (6 days ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (2 days ago)
+- [sebastianbergmann/docker-amitools](https://github.com/sebastianbergmann/docker-amitools) - Dockerfile for Christian Vogelgsang&#39;s amitools (2 days ago)
+- [sebastianbergmann/docker-amiga-gcc](https://github.com/sebastianbergmann/docker-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (1 week ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (2 weeks ago)
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (2 weeks ago)
 - [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (2 weeks ago)
@@ -21,10 +21,10 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2021.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2021.1), 6 days ago) - PHP runtime &amp; extensions header files for PhpStorm
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2021.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2021.1), 1 week ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) ([0.5.5](https://github.com/vimeo/php-mysql-engine/releases/tag/0.5.5), 1 week ago) - A MySQL engine written in pure PHP
-- [templado/engine](https://github.com/templado/engine) ([4.0.6](https://github.com/templado/engine/releases/tag/4.0.6), 4 weeks ago) - A pragmatic approach to templating for PHP 7.x&#43;
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v4.10.4](https://github.com/nikic/PHP-Parser/releases/tag/v4.10.4), 3 months ago) - A PHP parser written in PHP
+- [templado/engine](https://github.com/templado/engine) ([4.0.6](https://github.com/templado/engine/releases/tag/4.0.6), 1 month ago) - A pragmatic approach to templating for PHP 7.x&#43;
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v4.10.4](https://github.com/nikic/PHP-Parser/releases/tag/v4.10.4), 4 months ago) - A PHP parser written in PHP
 
 ---
 
