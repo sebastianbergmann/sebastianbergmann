@@ -4,6 +4,12 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 ---
 
+#### 📈 My GitHub Statistics
+
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sebastianbergmann&show_icons=true&count_private=true&hide_title=true)
+
+---
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
