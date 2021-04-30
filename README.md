@@ -36,7 +36,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 📜 My recent blog posts
 
-- [Do not mock what you do not own](https://thephp.cc/news/2021/04/do-not-mock-what-you-do-not-own) (1 week ago)
+- [Do not mock what you do not own](https://thephp.cc/articles/do-not-mock-what-you-do-not-own) (1 week ago)
 - [Refactoring](https://thephp.cc/news/2021/01/refactoring) (3 months ago)
 - [Your Password to Planet Argon](https://thephp.cc/news/2021/01/your-password-to-planet-argon) (3 months ago)
 - [Here is your homework](https://thephp.cc/news/2021/01/here-is-your-homework) (3 months ago)
