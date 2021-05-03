@@ -27,10 +27,10 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v4.10.5](https://github.com/nikic/PHP-Parser/releases/tag/v4.10.5), today) - A PHP parser written in PHP
 - [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) ([0.5.6](https://github.com/vimeo/php-mysql-engine/releases/tag/0.5.6), 1 week ago) - A MySQL engine written in pure PHP
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2021.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2021.1), 3 weeks ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [templado/engine](https://github.com/templado/engine) ([4.0.6](https://github.com/templado/engine/releases/tag/4.0.6), 1 month ago) - A pragmatic approach to templating for PHP 7.x&#43;
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v4.10.4](https://github.com/nikic/PHP-Parser/releases/tag/v4.10.4), 4 months ago) - A PHP parser written in PHP
 
 ---
 
