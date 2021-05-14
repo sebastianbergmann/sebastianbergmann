@@ -36,10 +36,10 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 #### 📜 My recent blog posts
 
 - [Do not mock what you do not own](https://thephp.cc/articles/do-not-mock-what-you-do-not-own) (3 weeks ago)
-- [Refactoring](https://thephp.cc/news/2021/01/refactoring) (4 months ago)
-- [Your Password to Planet Argon](https://thephp.cc/news/2021/01/your-password-to-planet-argon) (4 months ago)
-- [Here is your homework](https://thephp.cc/news/2021/01/here-is-your-homework) (4 months ago)
-- [The Value of Objects](https://thephp.cc/news/2021/01/the-value-of-objects) (4 months ago)
+- [Happy 25th Anniversary, PHP!](https://thephp.cc/news/2020/11/happy-25th-anniversary-php) (5 months ago)
+- [Caching makes everything faster. Right?](https://thephp.cc/articles/caching-makes-everything-faster-right) (7 months ago)
+- [Failing IT Projects](https://thephp.cc/news/2020/07/failing-it-projects) (10 months ago)
+- [Who wound the clock?](https://thephp.cc/news/2020/06/who-wound-the-clock) (11 months ago)
 
 ---
 
