@@ -12,22 +12,22 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/docker-amiga-gcc](https://github.com/sebastianbergmann/docker-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (2 days ago)
-- [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (2 days ago)
-- [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) - Library for counting the lines of code in PHP source code (2 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (4 days ago)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (4 days ago)
-- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria. (4 days ago)
-- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects (5 days ago)
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (5 days ago)
+- [sebastianbergmann/docker-amiga-gcc](https://github.com/sebastianbergmann/docker-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (3 days ago)
+- [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (3 days ago)
+- [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) - Library for counting the lines of code in PHP source code (3 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (5 days ago)
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (5 days ago)
+- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria. (5 days ago)
+- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects (6 days ago)
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (6 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v4.10.5](https://github.com/nikic/PHP-Parser/releases/tag/v4.10.5), 1 week ago) - A PHP parser written in PHP
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v4.10.5](https://github.com/nikic/PHP-Parser/releases/tag/v4.10.5), 2 weeks ago) - A PHP parser written in PHP
 - [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) ([0.5.6](https://github.com/vimeo/php-mysql-engine/releases/tag/0.5.6), 3 weeks ago) - A MySQL engine written in pure PHP
 - [templado/engine](https://github.com/templado/engine) ([4.0.6](https://github.com/templado/engine/releases/tag/4.0.6), 1 month ago) - A pragmatic approach to templating for PHP 7.x&#43;
 
