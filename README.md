@@ -38,7 +38,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 - [Do not mock what you do not own](https://thephp.cc/articles/do-not-mock-what-you-do-not-own) (1 month ago)
 - [Happy 25th Anniversary, PHP!](https://thephp.cc/articles/happy-25th-anniversary-php) (6 months ago)
 - [Caching makes everything faster. Right?](https://thephp.cc/articles/caching-makes-everything-faster-right) (8 months ago)
-- [Failing IT Projects](https://thephp.cc/news/2020/07/failing-it-projects) (11 months ago)
+- [Failing IT Projects](https://thephp.cc/articles/failing-it-projects) (11 months ago)
 - [Who wound the clock?](https://thephp.cc/news/2020/06/who-wound-the-clock) (1 year ago)
 
 ---
