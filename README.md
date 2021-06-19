@@ -39,7 +39,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 - [Happy 25th Anniversary, PHP!](https://thephp.cc/articles/happy-25th-anniversary-php) (6 months ago)
 - [Caching makes everything faster. Right?](https://thephp.cc/articles/caching-makes-everything-faster-right) (8 months ago)
 - [Failing IT Projects](https://thephp.cc/articles/failing-it-projects) (11 months ago)
-- [Who wound the clock?](https://thephp.cc/news/2020/06/who-wound-the-clock) (1 year ago)
+- [Who wound the clock?](https://thephp.cc/articles/who-wound-the-clock) (1 year ago)
 
 ---
 
