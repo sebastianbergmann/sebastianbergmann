@@ -27,7 +27,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v4.10.5](https://github.com/nikic/PHP-Parser/releases/tag/v4.10.5), 2 months ago) - A PHP parser written in PHP
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v4.11.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.11.0), today) - A PHP parser written in PHP
 - [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) ([0.5.6](https://github.com/vimeo/php-mysql-engine/releases/tag/0.5.6), 2 months ago) - A MySQL engine written in pure PHP
 - [templado/engine](https://github.com/templado/engine) ([4.0.6](https://github.com/templado/engine/releases/tag/4.0.6), 3 months ago) - A pragmatic approach to templating for PHP 7.x&#43;
 
