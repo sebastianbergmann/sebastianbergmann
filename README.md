@@ -27,9 +27,9 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
+- [phar-io/manifest](https://github.com/phar-io/manifest) ([2.0.3](https://github.com/phar-io/manifest/releases/tag/2.0.3), today) - Component for reading phar.io manifest information from a PHP Archive (PHAR)
 - [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) ([0.5.6](https://github.com/vimeo/php-mysql-engine/releases/tag/0.5.6), 2 months ago) - A MySQL engine written in pure PHP
 - [templado/engine](https://github.com/templado/engine) ([4.0.6](https://github.com/templado/engine/releases/tag/4.0.6), 4 months ago) - A pragmatic approach to templating for PHP 7.x&#43;
-- [phar-io/manifest](https://github.com/phar-io/manifest) ([1.0.3](https://github.com/phar-io/manifest/releases/tag/1.0.3), 3 years ago) - Component for reading phar.io manifest information from a PHP Archive (PHAR)
 
 ---
 
