@@ -37,11 +37,11 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 📜 My recent blog posts
 
+- [Ready Or Not, Here It Comes](https://thephp.cc/articles/ready-or-not-here-it-comes) (1 day ago)
 - [Ready, Preload, Go](https://thephp.cc/articles/ready-preload-go) (4 days ago)
 - [Do not mock what you do not own](https://thephp.cc/articles/do-not-mock-what-you-do-not-own) (3 months ago)
 - [Happy 25th Anniversary, PHP!](https://thephp.cc/articles/happy-25th-anniversary-php) (8 months ago)
 - [Caching makes everything faster. Right?](https://thephp.cc/articles/caching-makes-everything-faster-right) (9 months ago)
-- [Failing IT Projects](https://thephp.cc/articles/failing-it-projects) (1 year ago)
 
 ---
 
