@@ -12,8 +12,8 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/docker-amiga-gcc](https://github.com/sebastianbergmann/docker-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/docker-amiga-gcc](https://github.com/sebastianbergmann/docker-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (3 days ago)
 - [sebastianbergmann/phpcpd](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code. (1 week ago)
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 week ago)
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (1 week ago)
@@ -27,7 +27,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [templado/engine](https://github.com/templado/engine) ([4.1.2](https://github.com/templado/engine/releases/tag/4.1.2), 1 week ago) - A pragmatic approach to templating for PHP 7.x&#43;
+- [templado/engine](https://github.com/templado/engine) ([4.1.2](https://github.com/templado/engine/releases/tag/4.1.2), 2 weeks ago) - A pragmatic approach to templating for PHP 7.x&#43;
 - [phar-io/phive](https://github.com/phar-io/phive) ([0.15.0](https://github.com/phar-io/phive/releases/tag/0.15.0), 1 month ago) - The Phar Installation and Verification Environment (PHIVE)
 - [phar-io/manifest](https://github.com/phar-io/manifest) ([2.0.3](https://github.com/phar-io/manifest/releases/tag/2.0.3), 1 month ago) - Component for reading phar.io manifest information from a PHP Archive (PHAR)
 - [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) ([0.5.6](https://github.com/vimeo/php-mysql-engine/releases/tag/0.5.6), 4 months ago) - A MySQL engine written in pure PHP
