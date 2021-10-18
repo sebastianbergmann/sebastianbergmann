@@ -12,7 +12,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
 - [sebastianbergmann/container-amiga-gcc](https://github.com/sebastianbergmann/container-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (1 week ago)
 - [sebastianbergmann/container-amitools](https://github.com/sebastianbergmann/container-amitools) - Dockerfile for Christian Vogelgsang&#39;s amitools (1 week ago)
 - [sebastianbergmann/phpcpd](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code. (1 week ago)
@@ -29,7 +29,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 - [templado/engine](https://github.com/templado/engine) ([4.1.2](https://github.com/templado/engine/releases/tag/4.1.2), 1 month ago) - A pragmatic approach to templating for PHP 7.x&#43;
 - [phar-io/phive](https://github.com/phar-io/phive) ([0.15.0](https://github.com/phar-io/phive/releases/tag/0.15.0), 2 months ago) - The Phar Installation and Verification Environment (PHIVE)
-- [phar-io/manifest](https://github.com/phar-io/manifest) ([2.0.3](https://github.com/phar-io/manifest/releases/tag/2.0.3), 2 months ago) - Component for reading phar.io manifest information from a PHP Archive (PHAR)
+- [phar-io/manifest](https://github.com/phar-io/manifest) ([2.0.3](https://github.com/phar-io/manifest/releases/tag/2.0.3), 3 months ago) - Component for reading phar.io manifest information from a PHP Archive (PHAR)
 - [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) ([0.5.6](https://github.com/vimeo/php-mysql-engine/releases/tag/0.5.6), 5 months ago) - A MySQL engine written in pure PHP
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) ([1.1.2](https://github.com/theseer/tokenizer/releases/tag/1.1.2), 2 years ago) - A small library for converting tokenized PHP source code into XML (and potentially other formats)
 
