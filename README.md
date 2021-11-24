@@ -12,9 +12,9 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/container-amiga-gcc](https://github.com/sebastianbergmann/container-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (1 day ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (2 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (4 days ago)
+- [sebastianbergmann/container-amiga-gcc](https://github.com/sebastianbergmann/container-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (2 days ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (3 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (5 days ago)
 - [sebastianbergmann/phpcpd](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code. (1 week ago)
 - [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (1 week ago)
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (1 week ago)
@@ -40,7 +40,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 - [Ready Or Not, Here It Comes](https://thephp.cc/articles/ready-or-not-here-it-comes) (3 months ago)
 - [Ready, Preload, Go](https://thephp.cc/articles/ready-preload-go) (3 months ago)
 - [Do not mock what you do not own](https://thephp.cc/articles/do-not-mock-what-you-do-not-own) (7 months ago)
-- [Happy 25th Anniversary, PHP!](https://thephp.cc/articles/happy-25th-anniversary-php) (11 months ago)
+- [Happy 25th Anniversary, PHP!](https://thephp.cc/articles/happy-25th-anniversary-php) (1 year ago)
 - [Caching makes everything faster. Right?](https://thephp.cc/articles/caching-makes-everything-faster-right) (1 year ago)
 
 ---
