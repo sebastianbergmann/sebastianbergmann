@@ -24,8 +24,8 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 ---
 
-#### 📜 My recent blog posts
-{{range rss "https://thephp.cc/feeds/articles/sebastian-bergmann.xml" 5}}
+#### 📜 My recent articles
+{{range rss "https://thephp.cc/feeds/articles/sebastian-bergmann.xml" 10}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
