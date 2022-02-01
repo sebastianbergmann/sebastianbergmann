@@ -29,7 +29,6 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 - [phar-io/phive](https://github.com/phar-io/phive) ([0.15.0](https://github.com/phar-io/phive/releases/tag/0.15.0), 6 months ago) - The Phar Installation and Verification Environment (PHIVE)
 - [phar-io/manifest](https://github.com/phar-io/manifest) ([2.0.3](https://github.com/phar-io/manifest/releases/tag/2.0.3), 6 months ago) - Component for reading phar.io manifest information from a PHP Archive (PHAR)
-- [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) ([0.5.6](https://github.com/vimeo/php-mysql-engine/releases/tag/0.5.6), 9 months ago) - A MySQL engine written in pure PHP
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) ([1.1.2](https://github.com/theseer/tokenizer/releases/tag/1.1.2), 2 years ago) - A small library for converting tokenized PHP source code into XML (and potentially other formats)
 
 ---
