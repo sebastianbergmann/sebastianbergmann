@@ -12,10 +12,10 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (4 days ago)
-- [sebastianbergmann/container-amiga-gcc](https://github.com/sebastianbergmann/container-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (5 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (5 days ago)
+- [sebastianbergmann/container-amiga-gcc](https://github.com/sebastianbergmann/container-amiga-gcc) - Dockerfile for AmigaOS Cross-Compiler Toolchain (6 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific (PHP / HHVM) execution paths (1 week ago)
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria. (1 week ago)
 - [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) - A simple template engine. (1 week ago)
@@ -27,7 +27,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [phar-io/phive](https://github.com/phar-io/phive) ([0.15.0](https://github.com/phar-io/phive/releases/tag/0.15.0), 6 months ago) - The Phar Installation and Verification Environment (PHIVE)
+- [phar-io/phive](https://github.com/phar-io/phive) ([0.15.0](https://github.com/phar-io/phive/releases/tag/0.15.0), 7 months ago) - The Phar Installation and Verification Environment (PHIVE)
 - [phar-io/manifest](https://github.com/phar-io/manifest) ([2.0.3](https://github.com/phar-io/manifest/releases/tag/2.0.3), 7 months ago) - Component for reading phar.io manifest information from a PHP Archive (PHAR)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) ([1.1.2](https://github.com/theseer/tokenizer/releases/tag/1.1.2), 2 years ago) - A small library for converting tokenized PHP source code into XML (and potentially other formats)
 
