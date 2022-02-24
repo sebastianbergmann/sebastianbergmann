@@ -12,8 +12,8 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
 - [sebastianbergmann/phpcpd](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code. (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects (1 day ago)
 - [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (1 day ago)
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (1 day ago)
