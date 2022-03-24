@@ -13,8 +13,8 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 #### 👷 Check out what I'm currently working on
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
+- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (today)
 - [sebastianbergmann/container-amitools](https://github.com/sebastianbergmann/container-amitools) - Containerfile for Christian Vogelgsang&#39;s amitools (2 days ago)
-- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (2 days ago)
 - [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (3 days ago)
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (3 days ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (3 days ago)
