@@ -12,16 +12,16 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [templado/engine](https://github.com/templado/engine) - A pragmatic approach to templating for PHP 7.x&#43; (today)
-- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (today)
-- [sebastianbergmann/container-amitools](https://github.com/sebastianbergmann/container-amitools) - Containerfile for Christian Vogelgsang&#39;s amitools (2 days ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (3 days ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (3 days ago)
-- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria. (3 days ago)
-- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (3 days ago)
-- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (3 days ago)
-- [sebastianbergmann/container-amiga-gcc](https://github.com/sebastianbergmann/container-amiga-gcc) - Containerfile for AmigaOS Cross-Compiler Toolchain (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [templado/engine](https://github.com/templado/engine) - A pragmatic approach to templating for PHP 7.x&#43; (1 day ago)
+- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (1 day ago)
+- [sebastianbergmann/container-amitools](https://github.com/sebastianbergmann/container-amitools) - Containerfile for Christian Vogelgsang&#39;s amitools (3 days ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (4 days ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (4 days ago)
+- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria. (4 days ago)
+- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (4 days ago)
+- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (4 days ago)
+- [sebastianbergmann/container-amiga-gcc](https://github.com/sebastianbergmann/container-amiga-gcc) - Containerfile for AmigaOS Cross-Compiler Toolchain (4 days ago)
 
 ---
 
