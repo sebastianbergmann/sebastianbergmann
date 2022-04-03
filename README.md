@@ -12,22 +12,22 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) - Traverses array structures and object graphs to enumerate all referenced objects (today)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (today)
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (today)
-- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) - A simple template engine. (today)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (today)
-- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria. (today)
-- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (today)
-- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (today)
-- [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (today)
+- [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) - Traverses array structures and object graphs to enumerate all referenced objects (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (1 day ago)
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (1 day ago)
+- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) - A simple template engine. (1 day ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 day ago)
+- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria. (1 day ago)
+- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (1 day ago)
+- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (1 day ago)
+- [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (1 day ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phar-io/phive](https://github.com/phar-io/phive) ([0.15.1](https://github.com/phar-io/phive/releases/tag/0.15.1), 5 days ago) - The Phar Installation and Verification Environment (PHIVE)
+- [phar-io/phive](https://github.com/phar-io/phive) ([0.15.1](https://github.com/phar-io/phive/releases/tag/0.15.1), 6 days ago) - The Phar Installation and Verification Environment (PHIVE)
 - [templado/engine](https://github.com/templado/engine) ([4.1.4](https://github.com/templado/engine/releases/tag/4.1.4), 2 months ago) - A pragmatic approach to templating for PHP 7.x&#43;
 - [phar-io/manifest](https://github.com/phar-io/manifest) ([2.0.3](https://github.com/phar-io/manifest/releases/tag/2.0.3), 8 months ago) - Component for reading phar.io manifest information from a PHP Archive (PHAR)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) ([1.1.2](https://github.com/theseer/tokenizer/releases/tag/1.1.2), 3 years ago) - A small library for converting tokenized PHP source code into XML (and potentially other formats)
