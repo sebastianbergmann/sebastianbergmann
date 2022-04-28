@@ -12,10 +12,10 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (6 days ago)
-- [sebastianbergmann/container-amiga-gcc](https://github.com/sebastianbergmann/container-amiga-gcc) - Containerfile for AmigaOS Cross-Compiler Toolchain (6 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 week ago)
+- [sebastianbergmann/container-amiga-gcc](https://github.com/sebastianbergmann/container-amiga-gcc) - Containerfile for AmigaOS Cross-Compiler Toolchain (1 week ago)
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 week ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific (PHP / HHVM) execution paths (1 week ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific (PHP / HHVM) execution paths (2 weeks ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (2 weeks ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (2 weeks ago)
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (2 weeks ago)
@@ -37,7 +37,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 #### 📜 My recent articles
 
 - [Why I manage test fixture differently](https://thephp.cc/articles/why-i-manage-test-fixture-differently) (3 weeks ago)
-- [Ready Or Not, Here It Comes](https://thephp.cc/articles/ready-or-not-here-it-comes) (8 months ago)
+- [Ready Or Not, Here It Comes](https://thephp.cc/articles/ready-or-not-here-it-comes) (9 months ago)
 - [Ready, Preload, Go](https://thephp.cc/articles/ready-preload-go) (9 months ago)
 - [Do not mock what you do not own](https://thephp.cc/articles/do-not-mock-what-you-do-not-own) (1 year ago)
 - [Happy 25th Anniversary, PHP!](https://thephp.cc/articles/happy-25th-anniversary-php) (1 year ago)
