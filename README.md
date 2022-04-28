@@ -27,8 +27,8 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
+- [templado/engine](https://github.com/templado/engine) ([4.2.0](https://github.com/templado/engine/releases/tag/4.2.0), today) - A pragmatic approach to templating for PHP 7.x&#43;
 - [phar-io/phive](https://github.com/phar-io/phive) ([0.15.1](https://github.com/phar-io/phive/releases/tag/0.15.1), 1 month ago) - The Phar Installation and Verification Environment (PHIVE)
-- [templado/engine](https://github.com/templado/engine) ([4.1.4](https://github.com/templado/engine/releases/tag/4.1.4), 3 months ago) - A pragmatic approach to templating for PHP 7.x&#43;
 - [phar-io/manifest](https://github.com/phar-io/manifest) ([2.0.3](https://github.com/phar-io/manifest/releases/tag/2.0.3), 9 months ago) - Component for reading phar.io manifest information from a PHP Archive (PHAR)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) ([1.1.2](https://github.com/theseer/tokenizer/releases/tag/1.1.2), 3 years ago) - A small library for converting tokenized PHP source code into XML (and potentially other formats)
 
