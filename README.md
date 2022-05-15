@@ -15,13 +15,13 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 - [sebastianbergmann/container-amiga-gcc](https://github.com/sebastianbergmann/container-amiga-gcc) - Containerfile for AmigaOS Cross-Compiler Toolchain (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (4 days ago)
 - [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation) -  (1 week ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 week ago)
+- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria. (1 week ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 week ago)
 - [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (1 week ago)
-- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria. (1 week ago)
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (1 week ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (1 week ago)
-- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (1 week ago)
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (1 week ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 week ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 week ago)
 
 ---
 
