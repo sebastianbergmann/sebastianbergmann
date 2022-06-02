@@ -12,16 +12,16 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation) -  (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (5 days ago)
-- [sebastianbergmann/container-amiga-gcc](https://github.com/sebastianbergmann/container-amiga-gcc) - Containerfile for AmigaOS Cross-Compiler Toolchain (1 week ago)
-- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (2 weeks ago)
-- [sebastianbergmann/phpcpd](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code. (1 month ago)
-- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (1 month ago)
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (1 month ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 month ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 month ago)
-- [sebastianbergmann/code-unit-reverse-lookup](https://github.com/sebastianbergmann/code-unit-reverse-lookup) - Looks up which function or method a line of code belongs to (1 month ago)
+- [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) - Invoke PHP callables with a timeout (today)
+- [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (today)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific (PHP / HHVM) execution paths (today)
+- [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (today)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (today)
+- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (today)
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (today)
+- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (today)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (today)
+- [sebastianbergmann/code-unit-reverse-lookup](https://github.com/sebastianbergmann/code-unit-reverse-lookup) - Looks up which function or method a line of code belongs to (today)
 
 ---
 
