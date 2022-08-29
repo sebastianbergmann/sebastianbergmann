@@ -12,10 +12,10 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (4 days ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (5 days ago)
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (5 days ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (6 days ago)
 - [sebastianbergmann/container-amiga-gcc](https://github.com/sebastianbergmann/container-amiga-gcc) - Containerfile for AmigaOS Cross-Compiler Toolchain (1 week ago)
 - [Ozzyboshi/AProcessing](https://github.com/Ozzyboshi/AProcessing) -  (1 week ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 week ago)
@@ -27,7 +27,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [templado/engine](https://github.com/templado/engine) ([4.2.1](https://github.com/templado/engine/releases/tag/4.2.1), 4 days ago) - A pragmatic approach to templating for PHP 7.x&#43;
+- [templado/engine](https://github.com/templado/engine) ([4.2.1](https://github.com/templado/engine/releases/tag/4.2.1), 5 days ago) - A pragmatic approach to templating for PHP 7.x&#43;
 - [laminas/laminas-mvc](https://github.com/laminas/laminas-mvc) ([3.3.4](https://github.com/laminas/laminas-mvc/releases/tag/3.3.4), 1 week ago) - Laminas&#39;s event-driven MVC layer, including MVC Applications, Controllers, and Plugins
 
 ---
