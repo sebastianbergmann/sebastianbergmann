@@ -12,29 +12,29 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (2 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (3 days ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 week ago)
 - [sebastianbergmann/container-amiga-gcc](https://github.com/sebastianbergmann/container-amiga-gcc) - Containerfile for AmigaOS Cross-Compiler Toolchain (1 week ago)
 - [Ozzyboshi/AProcessing](https://github.com/Ozzyboshi/AProcessing) -  (1 week ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 week ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 week ago)
-- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (1 week ago)
-- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (1 week ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (2 weeks ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (2 weeks ago)
+- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (2 weeks ago)
+- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (2 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [templado/engine](https://github.com/templado/engine) ([4.2.1](https://github.com/templado/engine/releases/tag/4.2.1), 6 days ago) - A pragmatic approach to templating for PHP 7.x&#43;
+- [templado/engine](https://github.com/templado/engine) ([4.2.1](https://github.com/templado/engine/releases/tag/4.2.1), 1 week ago) - A pragmatic approach to templating for PHP 7.x&#43;
 - [laminas/laminas-mvc](https://github.com/laminas/laminas-mvc) ([3.3.4](https://github.com/laminas/laminas-mvc/releases/tag/3.3.4), 1 week ago) - Laminas&#39;s event-driven MVC layer, including MVC Applications, Controllers, and Plugins
 
 ---
 
 #### 📜 My recent articles
 
-- [Why I manage test fixture differently](https://thephp.cc/articles/why-i-manage-test-fixture-differently) (4 months ago)
+- [Why I manage test fixture differently](https://thephp.cc/articles/why-i-manage-test-fixture-differently) (5 months ago)
 - [Ready Or Not, Here It Comes](https://thephp.cc/articles/ready-or-not-here-it-comes) (1 year ago)
 - [Ready, Preload, Go](https://thephp.cc/articles/ready-preload-go) (1 year ago)
 - [Do not mock what you do not own](https://thephp.cc/articles/do-not-mock-what-you-do-not-own) (1 year ago)
