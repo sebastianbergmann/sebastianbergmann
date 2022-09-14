@@ -12,22 +12,22 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (today)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (today)
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (today)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific (PHP / HHVM) execution paths (today)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (today)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (today)
-- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (today)
-- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (today)
-- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (today)
+- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (1 day ago)
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (1 day ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific (PHP / HHVM) execution paths (1 day ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 day ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 day ago)
+- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (1 day ago)
+- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (1 day ago)
+- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (1 day ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [templado/engine](https://github.com/templado/engine) ([4.2.1](https://github.com/templado/engine/releases/tag/4.2.1), 2 weeks ago) - A pragmatic approach to templating for PHP 7.x&#43;
+- [templado/engine](https://github.com/templado/engine) ([4.2.1](https://github.com/templado/engine/releases/tag/4.2.1), 3 weeks ago) - A pragmatic approach to templating for PHP 7.x&#43;
 - [laminas/laminas-mvc](https://github.com/laminas/laminas-mvc) ([3.3.4](https://github.com/laminas/laminas-mvc/releases/tag/3.3.4), 3 weeks ago) - Laminas&#39;s event-driven MVC layer, including MVC Applications, Controllers, and Plugins
 
 ---
