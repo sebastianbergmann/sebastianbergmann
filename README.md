@@ -12,23 +12,23 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (2 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (2 days ago)
-- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (3 days ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific (PHP / HHVM) execution paths (3 days ago)
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (3 days ago)
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (3 days ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (3 days ago)
-- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (3 days ago)
-- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 days ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (3 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (3 days ago)
+- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (4 days ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific (PHP / HHVM) execution paths (4 days ago)
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (4 days ago)
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (4 days ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (4 days ago)
+- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (4 days ago)
+- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
 - [templado/engine](https://github.com/templado/engine) ([4.2.1](https://github.com/templado/engine/releases/tag/4.2.1), 3 weeks ago) - A pragmatic approach to templating for PHP 7.x&#43;
-- [laminas/laminas-mvc](https://github.com/laminas/laminas-mvc) ([3.3.4](https://github.com/laminas/laminas-mvc/releases/tag/3.3.4), 3 weeks ago) - Laminas&#39;s event-driven MVC layer, including MVC Applications, Controllers, and Plugins
+- [laminas/laminas-mvc](https://github.com/laminas/laminas-mvc) ([3.3.4](https://github.com/laminas/laminas-mvc/releases/tag/3.3.4), 4 weeks ago) - Laminas&#39;s event-driven MVC layer, including MVC Applications, Controllers, and Plugins
 
 ---
 
