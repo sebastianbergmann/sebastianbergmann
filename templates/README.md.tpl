@@ -33,5 +33,4 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 📫 How to reach me
 
-- Twitter: [@s_bergmann](https://twitter.com/s_bergmann)
 - Email: [sebastian@phpunit.de](mailto://sebastian@phpunit.de)
