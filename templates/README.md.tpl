@@ -34,3 +34,4 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 #### 📫 How to reach me
 
 - Email: [sebastian@phpunit.de](mailto://sebastian@phpunit.de)
+- Fediverse: [@sebastian@php.social](https://phpc.social/@sebastian)
