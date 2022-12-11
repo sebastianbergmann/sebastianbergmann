@@ -12,8 +12,8 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
-- [sebastianbergmann/container-amiga-gcc](https://github.com/sebastianbergmann/container-amiga-gcc) - Containerfile for AmigaOS Cross-Compiler Toolchain (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 days ago)
+- [sebastianbergmann/container-amiga-gcc](https://github.com/sebastianbergmann/container-amiga-gcc) - Containerfile for AmigaOS Cross-Compiler Toolchain (2 days ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (1 week ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (1 week ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific (PHP / HHVM) execution paths (1 week ago)
@@ -33,7 +33,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 📜 My recent articles
 
-- [PHP 7: Security Support Ends. Now what?](https://thephp.cc/articles/php-7-security-support-ends-now-what) (1 week ago)
+- [PHP 7: Security Support Ends. Now what?](https://thephp.cc/articles/php-7-security-support-ends-now-what) (2 weeks ago)
 - [Why I manage test fixture differently](https://thephp.cc/articles/why-i-manage-test-fixture-differently) (8 months ago)
 - [Ready Or Not, Here It Comes](https://thephp.cc/articles/ready-or-not-here-it-comes) (1 year ago)
 - [Ready, Preload, Go](https://thephp.cc/articles/ready-preload-go) (1 year ago)
