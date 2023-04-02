@@ -8,14 +8,14 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (today)
-- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (3 days ago)
+- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects (3 days ago)
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (3 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (3 days ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (3 days ago)
-- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects (3 days ago)
+- [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (3 days ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (3 days ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (3 days ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (3 days ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (3 days ago)
 
 ---
 
