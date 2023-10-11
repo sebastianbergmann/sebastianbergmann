@@ -18,13 +18,6 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 ---
 
-#### 📜 My recent articles
-{{range rss "https://thephp.cc/feeds/articles/sebastian-bergmann.xml" 10}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
----
-
 #### 📫 How to reach me
 
 - Email: [sebastian@phpunit.de](mailto://sebastian@phpunit.de)
