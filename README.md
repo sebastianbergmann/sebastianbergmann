@@ -24,21 +24,6 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 ---
 
-#### 📜 My recent articles
-
-- [PHP 7: Security Support Ends. Now what?](https://thephp.cc/articles/php-7-security-support-ends-now-what?ref=rss) (10 months ago)
-- [Why I manage test fixture differently](https://thephp.cc/articles/why-i-manage-test-fixture-differently?ref=rss) (2 years ago)
-- [Ready Or Not, Here It Comes](https://thephp.cc/articles/ready-or-not-here-it-comes?ref=rss) (2 years ago)
-- [Ready, Preload, Go](https://thephp.cc/articles/ready-preload-go?ref=rss) (2 years ago)
-- [Do not mock what you do not own](https://thephp.cc/articles/do-not-mock-what-you-do-not-own?ref=rss) (2 years ago)
-- [Happy 25th Anniversary, PHP!](https://thephp.cc/articles/happy-25th-anniversary-php?ref=rss) (2 years ago)
-- [Caching makes everything faster. Right?](https://thephp.cc/articles/caching-makes-everything-faster-right?ref=rss) (3 years ago)
-- [Failing IT Projects](https://thephp.cc/articles/failing-it-projects?ref=rss) (3 years ago)
-- [Who wound the clock?](https://thephp.cc/articles/who-wound-the-clock?ref=rss) (3 years ago)
-- [High-Resolution Monotonic Timer](https://thephp.cc/articles/high-resolution-monotonic-timer?ref=rss) (3 years ago)
-
----
-
 #### 📫 How to reach me
 
 - Email: [sebastian@phpunit.de](mailto://sebastian@phpunit.de)
