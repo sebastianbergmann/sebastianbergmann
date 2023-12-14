@@ -21,6 +21,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
+- [xdebug/xdebug](https://github.com/xdebug/xdebug) ([3.3.1](https://github.com/xdebug/xdebug/releases/tag/3.3.1), today) - Xdebug — Step Debugger and Debugging Aid for PHP
 
 ---
 
