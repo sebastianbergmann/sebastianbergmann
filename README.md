@@ -21,7 +21,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [templado/engine](https://github.com/templado/engine) ([5.0.0-rc.2](https://github.com/templado/engine/releases/tag/5.0.0-rc.2), 2 months ago) - A pragmatic approach to templating for PHP 8.2&#43;
+- [templado/engine](https://github.com/templado/engine) ([4.2.5](https://github.com/templado/engine/releases/tag/4.2.5), today) - A pragmatic approach to templating for PHP 8.2&#43;
 
 ---
 
