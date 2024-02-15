@@ -6,9 +6,9 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (2 days ago)
-- [templado/engine](https://github.com/templado/engine) - A pragmatic approach to templating for PHP 8.2&#43; (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (3 days ago)
+- [templado/engine](https://github.com/templado/engine) - A pragmatic approach to templating for PHP 8.2&#43; (3 days ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 week ago)
 - [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (1 week ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 week ago)
@@ -21,7 +21,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [templado/engine](https://github.com/templado/engine) ([4.2.5](https://github.com/templado/engine/releases/tag/4.2.5), today) - A pragmatic approach to templating for PHP 8.2&#43;
+- [templado/engine](https://github.com/templado/engine) ([4.2.5](https://github.com/templado/engine/releases/tag/4.2.5), 1 day ago) - A pragmatic approach to templating for PHP 8.2&#43;
 
 ---
 
