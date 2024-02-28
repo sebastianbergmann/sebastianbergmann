@@ -6,9 +6,9 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (today)
-- [isotopp/slot-test](https://github.com/isotopp/slot-test) - https://blog.koehntopp.info/2024/02/19/python-slots.html (4 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 day ago)
+- [isotopp/slot-test](https://github.com/isotopp/slot-test) - https://blog.koehntopp.info/2024/02/19/python-slots.html (5 days ago)
 - [templado/engine](https://github.com/templado/engine) - A pragmatic approach to templating for PHP 8.2&#43; (2 weeks ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (3 weeks ago)
 - [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) - A simple template engine. (3 weeks ago)
@@ -21,7 +21,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [templado/engine](https://github.com/templado/engine) ([4.2.5](https://github.com/templado/engine/releases/tag/4.2.5), 1 week ago) - A pragmatic approach to templating for PHP 8.2&#43;
+- [templado/engine](https://github.com/templado/engine) ([4.2.5](https://github.com/templado/engine/releases/tag/4.2.5), 2 weeks ago) - A pragmatic approach to templating for PHP 8.2&#43;
 
 ---
 
