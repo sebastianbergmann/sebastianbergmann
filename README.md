@@ -6,7 +6,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (2 days ago)
 - [dstogov/ir](https://github.com/dstogov/ir) - Lightweight JIT Compilation Framework (2 days ago)
 - [spriebsch/event-generator](https://github.com/spriebsch/event-generator) - Code generator for domain events. (3 days ago)
@@ -21,6 +21,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.5), today) - The PHP Unit Testing framework.
 - [phar-io/manifest](https://github.com/phar-io/manifest) ([2.0.4](https://github.com/phar-io/manifest/releases/tag/2.0.4), 6 days ago) - Component for reading phar.io manifest information from a PHP Archive (PHAR)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) ([1.2.3](https://github.com/theseer/tokenizer/releases/tag/1.2.3), 6 days ago) - A small library for converting tokenized PHP source code into XML (and potentially other formats)
 - [templado/engine](https://github.com/templado/engine) ([4.2.5](https://github.com/templado/engine/releases/tag/4.2.5), 3 weeks ago) - A pragmatic approach to templating for PHP 8.2&#43;
