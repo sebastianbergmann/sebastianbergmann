@@ -21,6 +21,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) ([1.0.0](https://github.com/sebastianbergmann/csv-parser/releases/tag/1.0.0), today) - Library for type-safe parsing of CSV files
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.5), 1 day ago) - The PHP Unit Testing framework.
 - [phar-io/manifest](https://github.com/phar-io/manifest) ([2.0.4](https://github.com/phar-io/manifest/releases/tag/2.0.4), 1 week ago) - Component for reading phar.io manifest information from a PHP Archive (PHAR)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) ([1.2.3](https://github.com/theseer/tokenizer/releases/tag/1.2.3), 1 week ago) - A small library for converting tokenized PHP source code into XML (and potentially other formats)
