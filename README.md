@@ -8,8 +8,8 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
 - [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) - Invoke PHP callables with a timeout (1 day ago)
-- [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (1 day ago)
 - [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (1 day ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 day ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 day ago)
@@ -21,8 +21,9 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.0.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.6), today) - The PHP Unit Testing framework.
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.3), today) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) ([1.0.0](https://github.com/sebastianbergmann/csv-parser/releases/tag/1.0.0), 1 day ago) - Library for type-safe parsing of CSV files
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.5), 3 days ago) - The PHP Unit Testing framework.
 - [phar-io/manifest](https://github.com/phar-io/manifest) ([2.0.4](https://github.com/phar-io/manifest/releases/tag/2.0.4), 1 week ago) - Component for reading phar.io manifest information from a PHP Archive (PHAR)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) ([1.2.3](https://github.com/theseer/tokenizer/releases/tag/1.2.3), 1 week ago) - A small library for converting tokenized PHP source code into XML (and potentially other formats)
 - [templado/engine](https://github.com/templado/engine) ([4.2.5](https://github.com/templado/engine/releases/tag/4.2.5), 3 weeks ago) - A pragmatic approach to templating for PHP 8.2&#43;
