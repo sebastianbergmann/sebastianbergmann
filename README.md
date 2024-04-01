@@ -11,11 +11,11 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (3 days ago)
 - [sebastianbergmann/foal](https://github.com/sebastianbergmann/foal) - Tool to find lines eliminated by OpCache&#39;s bytecode optimizer (5 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 week ago)
-- [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) - Invoke PHP callables with a timeout (1 week ago)
+- [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (1 week ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 week ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (1 week ago)
-- [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (1 week ago)
+- [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) - Library for counting the lines of code in PHP source code (1 week ago)
 
 ---
 
