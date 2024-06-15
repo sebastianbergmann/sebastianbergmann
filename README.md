@@ -21,7 +21,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.1), 4 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.2), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/foal](https://github.com/sebastianbergmann/foal) ([0.3.0](https://github.com/sebastianbergmann/foal/releases/tag/0.3.0), 2 months ago) - Tool to find lines eliminated by OpCache&#39;s bytecode optimizer
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([7.1.0](https://github.com/sebastianbergmann/environment/releases/tag/7.1.0), 2 months ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.3), 3 months ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
