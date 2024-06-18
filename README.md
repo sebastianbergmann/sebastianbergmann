@@ -21,7 +21,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([6.1.1](https://github.com/sebastianbergmann/exporter/releases/tag/6.1.1), today) - Provides the functionality to export PHP variables for visualization
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([6.1.2](https://github.com/sebastianbergmann/exporter/releases/tag/6.1.2), today) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([6.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.1), 1 day ago) - Provides functionality to recursively process PHP variables
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.2), 3 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/foal](https://github.com/sebastianbergmann/foal) ([0.3.0](https://github.com/sebastianbergmann/foal/releases/tag/0.3.0), 2 months ago) - Tool to find lines eliminated by OpCache&#39;s bytecode optimizer
