@@ -7,9 +7,9 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 #### 👷 Check out what I'm currently working on
 
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (today)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 day ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (5 days ago)
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (6 days ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (6 days ago)
@@ -21,7 +21,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([6.0.3](https://github.com/sebastianbergmann/exporter/releases/tag/6.0.3), 1 day ago) - Provides the functionality to export PHP variables for visualization
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([6.1.1](https://github.com/sebastianbergmann/exporter/releases/tag/6.1.1), today) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([6.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.1), 1 day ago) - Provides functionality to recursively process PHP variables
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.2), 3 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/foal](https://github.com/sebastianbergmann/foal) ([0.3.0](https://github.com/sebastianbergmann/foal/releases/tag/0.3.0), 2 months ago) - Tool to find lines eliminated by OpCache&#39;s bytecode optimizer
