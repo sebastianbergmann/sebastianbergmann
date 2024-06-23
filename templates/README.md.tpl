@@ -1,6 +1,13 @@
 Hi!
 
-I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop software using the PHP programming language then you may have come across my name. I am the creator and maintainer of [PHPUnit](https://phpunit.de/) as well as many other libraries and tools that are commonly used.
+I am [Sebastian Bergmann](https://sebastian-bergmann.de/index.html?ref=github).
+If you develop software using the PHP programming language then you may have come across my name.
+I am the creator and maintainer of [PHPUnit](https://phpunit.de/index.html?ref=github) as well as many other libraries and tools that are commonly used.
+
+You cannot buy PHPUnit, but you can pay for PHPUnit.
+And the best way to do so benefits you, your team, and me: let me help you through [consulting, coaching, and training](https://thephp.cc/welcome?ref=github).
+
+Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors.html?ref=github).
 
 ---
 
