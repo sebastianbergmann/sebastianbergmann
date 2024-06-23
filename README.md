@@ -6,6 +6,7 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastianbergmann/code-unit-reverse-lookup](https://github.com/sebastianbergmann/code-unit-reverse-lookup) - Looks up which function or method a line of code belongs to (today)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (today)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 days ago)
@@ -15,7 +16,6 @@ I am [Sebastian Bergmann](https://sebastian-bergmann.de/). If you develop softwa
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (1 week ago)
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 week ago)
 - [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (1 month ago)
-- [sebastianbergmann/foal](https://github.com/sebastianbergmann/foal) - Tool to find lines eliminated by OpCache&#39;s bytecode optimizer (2 months ago)
 
 ---
 
