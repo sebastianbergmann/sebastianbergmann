@@ -13,24 +13,24 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (2 days ago)
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (2 days ago)
-- [sebastianbergmann/foal](https://github.com/sebastianbergmann/foal) - Tool to find lines eliminated by OpCache&#39;s bytecode optimizer (3 days ago)
-- [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (4 days ago)
-- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (4 days ago)
-- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (4 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (5 days ago)
-- [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (5 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (2 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (3 days ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (3 days ago)
+- [sebastianbergmann/foal](https://github.com/sebastianbergmann/foal) - Tool to find lines eliminated by OpCache&#39;s bytecode optimizer (4 days ago)
+- [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (5 days ago)
+- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (5 days ago)
+- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (5 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (6 days ago)
+- [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (6 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.4), 2 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.4), 3 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.5), 1 week ago) - The PHP Unit Testing framework.
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([6.1.2](https://github.com/sebastianbergmann/exporter/releases/tag/6.1.2), 1 week ago) - Provides the functionality to export PHP variables for visualization
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([6.1.2](https://github.com/sebastianbergmann/exporter/releases/tag/6.1.2), 2 weeks ago) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([6.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.1), 2 weeks ago) - Provides functionality to recursively process PHP variables
 - [sebastianbergmann/foal](https://github.com/sebastianbergmann/foal) ([0.3.0](https://github.com/sebastianbergmann/foal/releases/tag/0.3.0), 3 months ago) - Tool to find lines eliminated by OpCache&#39;s bytecode optimizer
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([7.1.0](https://github.com/sebastianbergmann/environment/releases/tag/7.1.0), 3 months ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
