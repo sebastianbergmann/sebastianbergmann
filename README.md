@@ -13,31 +13,31 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (today)
-- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (today)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (today)
-- [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (today)
-- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (today)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (today)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (today)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (today)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (today)
+- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (1 day ago)
+- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 day ago)
+- [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (1 day ago)
+- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (1 day ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 day ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 day ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 day ago)
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (1 day ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.6), today) - The PHP Unit Testing framework.
-- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([5.0.1](https://github.com/sebastianbergmann/version/releases/tag/5.0.1), today) - Library that helps with managing the version number of Git-hosted PHP projects
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([5.0.1](https://github.com/sebastianbergmann/type/releases/tag/5.0.1), today) - Collection of value objects that represent the types of the PHP type system
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([6.0.2](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.2), today) - Provides functionality to recursively process PHP variables
-- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) ([7.0.1](https://github.com/sebastianbergmann/php-timer/releases/tag/7.0.1), today) - Utility class for timing
-- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) ([4.0.1](https://github.com/sebastianbergmann/php-text-template/releases/tag/4.0.1), today) - A simple template engine.
-- [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) ([5.0.1](https://github.com/sebastianbergmann/php-invoker/releases/tag/5.0.1), today) - Invoke PHP callables with a timeout
-- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([5.0.1](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/5.0.1), today) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.5](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.5), today) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
-- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) ([3.0.1](https://github.com/sebastianbergmann/object-graph/releases/tag/3.0.1), today) - Provides useful operations on PHP object graphs
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.6), 1 day ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([5.0.1](https://github.com/sebastianbergmann/version/releases/tag/5.0.1), 1 day ago) - Library that helps with managing the version number of Git-hosted PHP projects
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([5.0.1](https://github.com/sebastianbergmann/type/releases/tag/5.0.1), 1 day ago) - Collection of value objects that represent the types of the PHP type system
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([6.0.2](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.2), 1 day ago) - Provides functionality to recursively process PHP variables
+- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) ([7.0.1](https://github.com/sebastianbergmann/php-timer/releases/tag/7.0.1), 1 day ago) - Utility class for timing
+- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) ([4.0.1](https://github.com/sebastianbergmann/php-text-template/releases/tag/4.0.1), 1 day ago) - A simple template engine.
+- [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) ([5.0.1](https://github.com/sebastianbergmann/php-invoker/releases/tag/5.0.1), 1 day ago) - Invoke PHP callables with a timeout
+- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([5.0.1](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/5.0.1), 1 day ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.5](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.5), 1 day ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) ([3.0.1](https://github.com/sebastianbergmann/object-graph/releases/tag/3.0.1), 1 day ago) - Provides useful operations on PHP object graphs
 
 ---
 
