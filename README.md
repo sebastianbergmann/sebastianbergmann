@@ -28,7 +28,7 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.6), 5 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([10.5.26](https://github.com/sebastianbergmann/phpunit/releases/tag/10.5.26), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([5.0.1](https://github.com/sebastianbergmann/version/releases/tag/5.0.1), 5 days ago) - Library that helps with managing the version number of Git-hosted PHP projects
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([5.0.1](https://github.com/sebastianbergmann/type/releases/tag/5.0.1), 5 days ago) - Collection of value objects that represent the types of the PHP type system
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([6.0.2](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.2), 5 days ago) - Provides functionality to recursively process PHP variables
