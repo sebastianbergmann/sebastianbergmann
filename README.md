@@ -13,14 +13,14 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (3 days ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 week ago)
 - [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (1 week ago)
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 week ago)
-- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (1 week ago)
-- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (1 week ago)
+- [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (1 week ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 week ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 week ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 week ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (1 week ago)
 
@@ -28,6 +28,7 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) ([1.0.2](https://github.com/sebastianbergmann/uuid/releases/tag/1.0.2), today) - Function for generating a UUID (as string)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.7), 3 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([5.0.1](https://github.com/sebastianbergmann/version/releases/tag/5.0.1), 1 week ago) - Library that helps with managing the version number of Git-hosted PHP projects
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([5.0.1](https://github.com/sebastianbergmann/type/releases/tag/5.0.1), 1 week ago) - Collection of value objects that represent the types of the PHP type system
@@ -37,7 +38,6 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 - [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) ([5.0.1](https://github.com/sebastianbergmann/php-invoker/releases/tag/5.0.1), 1 week ago) - Invoke PHP callables with a timeout
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([5.0.1](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/5.0.1), 1 week ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.5](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.5), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
-- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) ([3.0.1](https://github.com/sebastianbergmann/object-graph/releases/tag/3.0.1), 1 week ago) - Provides useful operations on PHP object graphs
 
 ---
 
