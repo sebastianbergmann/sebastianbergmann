@@ -28,7 +28,7 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([1.0.0](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/1.0.0), today) - Wrapper around PHP&#39;s mysqli extension
+- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([1.0.1](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/1.0.1), today) - Wrapper around PHP&#39;s mysqli extension
 - [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) ([1.0.2](https://github.com/sebastianbergmann/uuid/releases/tag/1.0.2), 1 day ago) - Function for generating a UUID (as string)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.7), 4 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([5.0.1](https://github.com/sebastianbergmann/version/releases/tag/5.0.1), 1 week ago) - Library that helps with managing the version number of Git-hosted PHP projects
