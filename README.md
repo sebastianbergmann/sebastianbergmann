@@ -13,8 +13,8 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (today)
 - [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (1 day ago)
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (4 days ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 week ago)
 - [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (1 week ago)
