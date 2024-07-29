@@ -13,8 +13,8 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
+- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 week ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 week ago)
 - [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (1 week ago)
@@ -29,7 +29,7 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 #### 🔭 Latest releases I've contributed to
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.8](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.8), 1 week ago) - The PHP Unit Testing framework.
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([1.0.2](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/1.0.2), 1 week ago) - Wrapper around PHP&#39;s mysqli extension
+- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([1.0.2](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/1.0.2), 2 weeks ago) - Wrapper around PHP&#39;s mysqli extension
 - [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) ([1.0.2](https://github.com/sebastianbergmann/uuid/releases/tag/1.0.2), 2 weeks ago) - Function for generating a UUID (as string)
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([5.0.1](https://github.com/sebastianbergmann/version/releases/tag/5.0.1), 3 weeks ago) - Library that helps with managing the version number of Git-hosted PHP projects
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([5.0.1](https://github.com/sebastianbergmann/type/releases/tag/5.0.1), 3 weeks ago) - Collection of value objects that represent the types of the PHP type system
