@@ -13,31 +13,31 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (3 days ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 week ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 week ago)
-- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 week ago)
-- [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (1 week ago)
-- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (1 week ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 week ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 week ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 week ago)
+- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (2 weeks ago)
+- [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (2 weeks ago)
+- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (2 weeks ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (2 weeks ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (2 weeks ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (2 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.9](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.9), today) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.9](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.9), 1 day ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([1.0.2](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/1.0.2), 2 weeks ago) - Wrapper around PHP&#39;s mysqli extension
 - [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) ([1.0.2](https://github.com/sebastianbergmann/uuid/releases/tag/1.0.2), 2 weeks ago) - Function for generating a UUID (as string)
-- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([5.0.1](https://github.com/sebastianbergmann/version/releases/tag/5.0.1), 3 weeks ago) - Library that helps with managing the version number of Git-hosted PHP projects
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([5.0.1](https://github.com/sebastianbergmann/type/releases/tag/5.0.1), 3 weeks ago) - Collection of value objects that represent the types of the PHP type system
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([6.0.2](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.2), 3 weeks ago) - Provides functionality to recursively process PHP variables
-- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) ([7.0.1](https://github.com/sebastianbergmann/php-timer/releases/tag/7.0.1), 3 weeks ago) - Utility class for timing
-- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) ([4.0.1](https://github.com/sebastianbergmann/php-text-template/releases/tag/4.0.1), 3 weeks ago) - A simple template engine.
-- [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) ([5.0.1](https://github.com/sebastianbergmann/php-invoker/releases/tag/5.0.1), 3 weeks ago) - Invoke PHP callables with a timeout
-- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([5.0.1](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/5.0.1), 3 weeks ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
+- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([5.0.1](https://github.com/sebastianbergmann/version/releases/tag/5.0.1), 4 weeks ago) - Library that helps with managing the version number of Git-hosted PHP projects
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([5.0.1](https://github.com/sebastianbergmann/type/releases/tag/5.0.1), 4 weeks ago) - Collection of value objects that represent the types of the PHP type system
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([6.0.2](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.2), 4 weeks ago) - Provides functionality to recursively process PHP variables
+- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) ([7.0.1](https://github.com/sebastianbergmann/php-timer/releases/tag/7.0.1), 4 weeks ago) - Utility class for timing
+- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) ([4.0.1](https://github.com/sebastianbergmann/php-text-template/releases/tag/4.0.1), 4 weeks ago) - A simple template engine.
+- [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) ([5.0.1](https://github.com/sebastianbergmann/php-invoker/releases/tag/5.0.1), 4 weeks ago) - Invoke PHP callables with a timeout
+- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([5.0.1](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/5.0.1), 4 weeks ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
 
 ---
 
