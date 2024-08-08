@@ -13,9 +13,9 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 day ago)
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (6 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 days ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (2 days ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 week ago)
 - [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (1 week ago)
 - [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (3 weeks ago)
 - [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (3 weeks ago)
@@ -28,7 +28,7 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.0), 5 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.0), 6 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([1.0.2](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/1.0.2), 3 weeks ago) - Wrapper around PHP&#39;s mysqli extension
 - [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) ([1.0.2](https://github.com/sebastianbergmann/uuid/releases/tag/1.0.2), 3 weeks ago) - Function for generating a UUID (as string)
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([5.0.1](https://github.com/sebastianbergmann/version/releases/tag/5.0.1), 1 month ago) - Library that helps with managing the version number of Git-hosted PHP projects
