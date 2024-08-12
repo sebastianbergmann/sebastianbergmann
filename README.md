@@ -28,6 +28,7 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([5.0.2](https://github.com/sebastianbergmann/comparator/releases/tag/5.0.2), today) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([1.0.3](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/1.0.3), 3 days ago) - Wrapper around PHP&#39;s mysqli extension
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.0), 1 week ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) ([1.0.2](https://github.com/sebastianbergmann/uuid/releases/tag/1.0.2), 1 month ago) - Function for generating a UUID (as string)
@@ -37,7 +38,6 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 - [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) ([7.0.1](https://github.com/sebastianbergmann/php-timer/releases/tag/7.0.1), 1 month ago) - Utility class for timing
 - [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) ([4.0.1](https://github.com/sebastianbergmann/php-text-template/releases/tag/4.0.1), 1 month ago) - A simple template engine.
 - [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) ([5.0.1](https://github.com/sebastianbergmann/php-invoker/releases/tag/5.0.1), 1 month ago) - Invoke PHP callables with a timeout
-- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([5.0.1](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/5.0.1), 1 month ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
 
 ---
 
