@@ -13,10 +13,10 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (today)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (3 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (6 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (1 day ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (4 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 week ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 week ago)
 - [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (1 week ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 week ago)
@@ -28,9 +28,9 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([5.1.0](https://github.com/sebastianbergmann/type/releases/tag/5.1.0), today) - Collection of value objects that represent the types of the PHP type system
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.5), 4 days ago) - The PHP Unit Testing framework.
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([6.1.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.1.0), 6 days ago) - Provides the functionality to compare PHP values for equality.
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([5.1.0](https://github.com/sebastianbergmann/type/releases/tag/5.1.0), 1 day ago) - Collection of value objects that represent the types of the PHP type system
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.5), 5 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([6.1.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.1.0), 1 week ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([5.1.0](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/5.1.0), 3 weeks ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.6](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.6), 3 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([1.0.3](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/1.0.3), 1 month ago) - Wrapper around PHP&#39;s mysqli extension
