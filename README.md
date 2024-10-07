@@ -21,8 +21,8 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 - [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (1 week ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 week ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 week ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 week ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (1 week ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 week ago)
 
 ---
 
