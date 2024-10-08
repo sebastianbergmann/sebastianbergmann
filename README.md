@@ -28,7 +28,7 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.0), 3 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.1), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([5.1.0](https://github.com/sebastianbergmann/type/releases/tag/5.1.0), 3 weeks ago) - Collection of value objects that represent the types of the PHP type system
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([6.1.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.1.0), 3 weeks ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([5.1.0](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/5.1.0), 1 month ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
