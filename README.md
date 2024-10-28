@@ -28,8 +28,8 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.3), today) - The PHP Unit Testing framework.
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) ([1.0.5](https://github.com/staabm/side-effects-detector/releases/tag/1.0.5), 1 week ago) - Analyzes php-code for side-effects.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.2), 1 week ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([6.1.1](https://github.com/sebastianbergmann/comparator/releases/tag/6.1.1), 1 week ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.7](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.7), 2 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([5.0.2](https://github.com/sebastianbergmann/version/releases/tag/5.0.2), 2 weeks ago) - Library that helps with managing the version number of Git-hosted PHP projects
