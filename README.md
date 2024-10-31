@@ -13,10 +13,10 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (today)
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 day ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 day ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (2 days ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - Analyzes php-code for side-effects. (1 week ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 week ago)
 - [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (2 weeks ago)
@@ -28,8 +28,8 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([6.2.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.2.0), today) - Provides the functionality to compare PHP values for equality.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.3), 2 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([6.2.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.2.0), 1 day ago) - Provides the functionality to compare PHP values for equality.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.3), 3 days ago) - The PHP Unit Testing framework.
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) ([1.0.5](https://github.com/staabm/side-effects-detector/releases/tag/1.0.5), 1 week ago) - Analyzes php-code for side-effects.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.7](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.7), 3 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([5.0.2](https://github.com/sebastianbergmann/version/releases/tag/5.0.2), 3 weeks ago) - Library that helps with managing the version number of Git-hosted PHP projects
@@ -37,7 +37,7 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([5.1.0](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/5.1.0), 2 months ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
 - [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([1.0.3](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/1.0.3), 2 months ago) - Wrapper around PHP&#39;s mysqli extension
 - [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) ([1.0.2](https://github.com/sebastianbergmann/uuid/releases/tag/1.0.2), 3 months ago) - Function for generating a UUID (as string)
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([6.0.2](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.2), 3 months ago) - Provides functionality to recursively process PHP variables
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([6.0.2](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.2), 4 months ago) - Provides functionality to recursively process PHP variables
 
 ---
 
