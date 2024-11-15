@@ -22,7 +22,7 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (3 weeks ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - Analyzes php-code for side-effects. (3 weeks ago)
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects (1 month ago)
-- [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) - Library for counting the lines of code in PHP source code (1 month ago)
+- [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (1 month ago)
 
 ---
 
