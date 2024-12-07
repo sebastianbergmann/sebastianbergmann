@@ -13,10 +13,10 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 day ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (6 days ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (2 days ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (2 weeks ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (2 weeks ago)
 - [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (2 weeks ago)
@@ -28,15 +28,15 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.0), today) - The PHP Unit Testing framework.
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([6.3.0](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0), 1 day ago) - Provides the functionality to export PHP variables for visualization
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.0), 1 day ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([6.3.0](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0), 2 days ago) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([6.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/6.2.1), 1 month ago) - Provides the functionality to compare PHP values for equality.
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) ([1.0.5](https://github.com/staabm/side-effects-detector/releases/tag/1.0.5), 1 month ago) - Analyzes php-code for side-effects.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.7](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.7), 1 month ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([5.0.2](https://github.com/sebastianbergmann/version/releases/tag/5.0.2), 1 month ago) - Library that helps with managing the version number of Git-hosted PHP projects
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([5.1.0](https://github.com/sebastianbergmann/type/releases/tag/5.1.0), 2 months ago) - Collection of value objects that represent the types of the PHP type system
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([5.1.0](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/5.1.0), 3 months ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([1.0.3](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/1.0.3), 3 months ago) - Wrapper around PHP&#39;s mysqli extension
+- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([1.0.3](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/1.0.3), 4 months ago) - Wrapper around PHP&#39;s mysqli extension
 - [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) ([1.0.2](https://github.com/sebastianbergmann/uuid/releases/tag/1.0.2), 4 months ago) - Function for generating a UUID (as string)
 
 ---
