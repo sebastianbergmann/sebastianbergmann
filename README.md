@@ -13,10 +13,10 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (4 days ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (5 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 days ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (5 days ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (6 days ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 week ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (3 weeks ago)
 - [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (3 weeks ago)
@@ -28,8 +28,8 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.0), 4 days ago) - The PHP Unit Testing framework.
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([6.3.0](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0), 5 days ago) - Provides the functionality to export PHP variables for visualization
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.0), 5 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([6.3.0](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0), 6 days ago) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([6.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/6.2.1), 1 month ago) - Provides the functionality to compare PHP values for equality.
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) ([1.0.5](https://github.com/staabm/side-effects-detector/releases/tag/1.0.5), 1 month ago) - Analyzes php-code for side-effects.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.7](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.7), 2 months ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
