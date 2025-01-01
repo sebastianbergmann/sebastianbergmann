@@ -13,7 +13,7 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (6 days ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 week ago)
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 week ago)
@@ -30,7 +30,7 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.2), 1 week ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) ([3.0.2](https://github.com/sebastianbergmann/code-unit/releases/tag/3.0.2), 2 weeks ago) - Collection of value objects that represent the PHP code units
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8), 2 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8), 3 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([6.3.0](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0), 3 weeks ago) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([6.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/6.2.1), 2 months ago) - Provides the functionality to compare PHP values for equality.
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) ([1.0.5](https://github.com/staabm/side-effects-detector/releases/tag/1.0.5), 2 months ago) - Analyzes php-code for side-effects.
