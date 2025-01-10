@@ -13,8 +13,8 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (4 days ago)
 - [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (1 week ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 week ago)
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (1 week ago)
@@ -28,10 +28,10 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([6.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.3.0), 3 days ago) - Provides the functionality to compare PHP values for equality.
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([6.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.3.0), 4 days ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.2), 2 weeks ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) ([3.0.2](https://github.com/sebastianbergmann/code-unit/releases/tag/3.0.2), 4 weeks ago) - Collection of value objects that represent the PHP code units
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8), 4 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8), 1 month ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([6.3.0](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0), 1 month ago) - Provides the functionality to export PHP variables for visualization
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) ([1.0.5](https://github.com/staabm/side-effects-detector/releases/tag/1.0.5), 2 months ago) - Analyzes php-code for side-effects.
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([5.0.2](https://github.com/sebastianbergmann/version/releases/tag/5.0.2), 3 months ago) - Library that helps with managing the version number of Git-hosted PHP projects
