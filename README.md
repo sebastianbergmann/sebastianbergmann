@@ -13,12 +13,12 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [derickr/derickrethans-articles](https://github.com/derickr/derickrethans-articles) -  (today)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria. (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (3 days ago)
-- [humbug/php-scoper](https://github.com/humbug/php-scoper) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs. (3 days ago)
+- [derickr/derickrethans-articles](https://github.com/derickr/derickrethans-articles) -  (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria. (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (4 days ago)
+- [humbug/php-scoper](https://github.com/humbug/php-scoper) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs. (4 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 week ago)
 - [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (2 weeks ago)
 - [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (2 weeks ago)
@@ -28,8 +28,8 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.3), 2 days ago) - The PHP Unit Testing framework.
-- [humbug/php-scoper](https://github.com/humbug/php-scoper) ([0.18.16](https://github.com/humbug/php-scoper/releases/tag/0.18.16), 3 days ago) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.3), 3 days ago) - The PHP Unit Testing framework.
+- [humbug/php-scoper](https://github.com/humbug/php-scoper) ([0.18.16](https://github.com/humbug/php-scoper/releases/tag/0.18.16), 4 days ago) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([6.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.3.0), 1 week ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) ([3.0.2](https://github.com/sebastianbergmann/code-unit/releases/tag/3.0.2), 1 month ago) - Collection of value objects that represent the PHP code units
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8), 1 month ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
