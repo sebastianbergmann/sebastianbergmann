@@ -13,7 +13,7 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
 - [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) - Library for counting the lines of code in PHP source code (1 week ago)
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects (1 week ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 week ago)
@@ -28,9 +28,9 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.3), 1 week ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.3), 2 weeks ago) - The PHP Unit Testing framework.
 - [humbug/php-scoper](https://github.com/humbug/php-scoper) ([0.18.16](https://github.com/humbug/php-scoper/releases/tag/0.18.16), 2 weeks ago) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([6.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.3.0), 2 weeks ago) - Provides the functionality to compare PHP values for equality.
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([6.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.3.0), 3 weeks ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) ([3.0.2](https://github.com/sebastianbergmann/code-unit/releases/tag/3.0.2), 1 month ago) - Collection of value objects that represent the PHP code units
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8), 1 month ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([6.3.0](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0), 1 month ago) - Provides the functionality to export PHP variables for visualization
