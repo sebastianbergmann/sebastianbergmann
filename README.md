@@ -28,8 +28,8 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.0.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.1), today) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.1), today) - The PHP Unit Testing framework.
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.0.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.0), today) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([6.0.0](https://github.com/sebastianbergmann/version/releases/tag/6.0.0), today) - Library that helps with managing the version number of Git-hosted PHP projects
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([7.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.0), today) - Provides functionality to recursively process PHP variables
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.0](https://github.com/sebastianbergmann/type/releases/tag/6.0.0), today) - Collection of value objects that represent the types of the PHP type system
