@@ -20,7 +20,7 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (today)
-- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) - A simple template engine. (today)
+- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (today)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (today)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (today)
 
@@ -28,6 +28,7 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.1), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.0.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.0), today) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([6.0.0](https://github.com/sebastianbergmann/version/releases/tag/6.0.0), today) - Library that helps with managing the version number of Git-hosted PHP projects
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([7.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.0), today) - Provides functionality to recursively process PHP variables
@@ -37,7 +38,6 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 - [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) ([6.0.0](https://github.com/sebastianbergmann/php-invoker/releases/tag/6.0.0), today) - Invoke PHP callables with a timeout
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([6.0.0](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/6.0.0), today) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
 - [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) ([5.0.0](https://github.com/sebastianbergmann/object-reflector/releases/tag/5.0.0), today) - Allows reflection of object attributes, including inherited and non-public ones
-- [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) ([7.0.0](https://github.com/sebastianbergmann/object-enumerator/releases/tag/7.0.0), today) - Traverses array structures and object graphs to enumerate all referenced objects
 
 ---
 
