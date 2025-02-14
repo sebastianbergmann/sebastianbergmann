@@ -13,31 +13,31 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 day ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (3 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (5 days ago)
-- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) - A simple template engine. (6 days ago)
-- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (6 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (6 days ago)
-- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects (6 days ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (6 days ago)
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (6 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (2 days ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (4 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (6 days ago)
+- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) - A simple template engine. (1 week ago)
+- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (1 week ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 week ago)
+- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects (1 week ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 week ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.2), 5 days ago) - The PHP Unit Testing framework.
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.0.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.2), 5 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
-- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([6.0.0](https://github.com/sebastianbergmann/version/releases/tag/6.0.0), 6 days ago) - Library that helps with managing the version number of Git-hosted PHP projects
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([7.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.0), 6 days ago) - Provides functionality to recursively process PHP variables
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.0](https://github.com/sebastianbergmann/type/releases/tag/6.0.0), 6 days ago) - Collection of value objects that represent the types of the PHP type system
-- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) ([8.0.0](https://github.com/sebastianbergmann/php-timer/releases/tag/8.0.0), 6 days ago) - Utility class for timing
-- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) ([5.0.0](https://github.com/sebastianbergmann/php-text-template/releases/tag/5.0.0), 6 days ago) - A simple template engine.
-- [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) ([6.0.0](https://github.com/sebastianbergmann/php-invoker/releases/tag/6.0.0), 6 days ago) - Invoke PHP callables with a timeout
-- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([6.0.0](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/6.0.0), 6 days ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
-- [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) ([5.0.0](https://github.com/sebastianbergmann/object-reflector/releases/tag/5.0.0), 6 days ago) - Allows reflection of object attributes, including inherited and non-public ones
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.2), 6 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.0.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.2), 6 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([6.0.0](https://github.com/sebastianbergmann/version/releases/tag/6.0.0), 1 week ago) - Library that helps with managing the version number of Git-hosted PHP projects
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([7.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.0), 1 week ago) - Provides functionality to recursively process PHP variables
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.0](https://github.com/sebastianbergmann/type/releases/tag/6.0.0), 1 week ago) - Collection of value objects that represent the types of the PHP type system
+- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) ([8.0.0](https://github.com/sebastianbergmann/php-timer/releases/tag/8.0.0), 1 week ago) - Utility class for timing
+- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) ([5.0.0](https://github.com/sebastianbergmann/php-text-template/releases/tag/5.0.0), 1 week ago) - A simple template engine.
+- [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) ([6.0.0](https://github.com/sebastianbergmann/php-invoker/releases/tag/6.0.0), 1 week ago) - Invoke PHP callables with a timeout
+- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([6.0.0](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/6.0.0), 1 week ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
+- [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) ([5.0.0](https://github.com/sebastianbergmann/object-reflector/releases/tag/5.0.0), 1 week ago) - Allows reflection of object attributes, including inherited and non-public ones
 
 ---
 
