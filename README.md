@@ -13,9 +13,9 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (2 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (2 days ago)
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 week ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 week ago)
 - [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (1 week ago)
@@ -28,8 +28,9 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.0.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.3), 1 day ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.3), 1 day ago) - The PHP Unit Testing framework.
+- [humbug/php-scoper](https://github.com/humbug/php-scoper) ([0.18.17](https://github.com/humbug/php-scoper/releases/tag/0.18.17), 1 day ago) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.0.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.3), 2 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.3), 2 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([6.0.0](https://github.com/sebastianbergmann/version/releases/tag/6.0.0), 1 week ago) - Library that helps with managing the version number of Git-hosted PHP projects
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([7.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.0), 1 week ago) - Provides functionality to recursively process PHP variables
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.0](https://github.com/sebastianbergmann/type/releases/tag/6.0.0), 1 week ago) - Collection of value objects that represent the types of the PHP type system
@@ -37,7 +38,6 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 - [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) ([5.0.0](https://github.com/sebastianbergmann/php-text-template/releases/tag/5.0.0), 1 week ago) - A simple template engine.
 - [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) ([6.0.0](https://github.com/sebastianbergmann/php-invoker/releases/tag/6.0.0), 1 week ago) - Invoke PHP callables with a timeout
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([6.0.0](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/6.0.0), 1 week ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
-- [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) ([5.0.0](https://github.com/sebastianbergmann/object-reflector/releases/tag/5.0.0), 1 week ago) - Allows reflection of object attributes, including inherited and non-public ones
 
 ---
 
