@@ -13,31 +13,31 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 day ago)
-- [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux (6 days ago)
+- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (2 days ago)
+- [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 week ago)
 - [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (2 weeks ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (3 weeks ago)
-- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (4 weeks ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (4 weeks ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (4 weeks ago)
+- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (1 month ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 month ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 month ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.7), 1 day ago) - The PHP Unit Testing framework.
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.0.1](https://github.com/sebastianbergmann/comparator/releases/tag/7.0.1), 1 day ago) - Provides the functionality to compare PHP values for equality.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.7), 2 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.0.1](https://github.com/sebastianbergmann/comparator/releases/tag/7.0.1), 2 days ago) - Provides the functionality to compare PHP values for equality.
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.4.0](https://github.com/davidlattimore/wild/releases/tag/0.4.0), 1 week ago) - A very fast linker for Linux
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.0.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.4), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [humbug/php-scoper](https://github.com/humbug/php-scoper) ([0.18.17](https://github.com/humbug/php-scoper/releases/tag/0.18.17), 2 weeks ago) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
-- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([6.0.0](https://github.com/sebastianbergmann/version/releases/tag/6.0.0), 4 weeks ago) - Library that helps with managing the version number of Git-hosted PHP projects
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([7.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.0), 4 weeks ago) - Provides functionality to recursively process PHP variables
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.0](https://github.com/sebastianbergmann/type/releases/tag/6.0.0), 4 weeks ago) - Collection of value objects that represent the types of the PHP type system
-- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) ([8.0.0](https://github.com/sebastianbergmann/php-timer/releases/tag/8.0.0), 4 weeks ago) - Utility class for timing
-- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) ([5.0.0](https://github.com/sebastianbergmann/php-text-template/releases/tag/5.0.0), 4 weeks ago) - A simple template engine.
+- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([6.0.0](https://github.com/sebastianbergmann/version/releases/tag/6.0.0), 1 month ago) - Library that helps with managing the version number of Git-hosted PHP projects
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([7.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.0), 1 month ago) - Provides functionality to recursively process PHP variables
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.0](https://github.com/sebastianbergmann/type/releases/tag/6.0.0), 1 month ago) - Collection of value objects that represent the types of the PHP type system
+- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) ([8.0.0](https://github.com/sebastianbergmann/php-timer/releases/tag/8.0.0), 1 month ago) - Utility class for timing
+- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) ([5.0.0](https://github.com/sebastianbergmann/php-text-template/releases/tag/5.0.0), 1 month ago) - A simple template engine.
 
 ---
 
