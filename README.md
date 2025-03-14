@@ -13,13 +13,13 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (2 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (6 days ago)
-- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (6 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (3 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 week ago)
+- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 week ago)
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (2 weeks ago)
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (2 weeks ago)
+- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (3 weeks ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 month ago)
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects (1 month ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 month ago)
@@ -28,8 +28,8 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.7), 6 days ago) - The PHP Unit Testing framework.
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.0.1](https://github.com/sebastianbergmann/comparator/releases/tag/7.0.1), 6 days ago) - Provides the functionality to compare PHP values for equality.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.7), 1 week ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.0.1](https://github.com/sebastianbergmann/comparator/releases/tag/7.0.1), 1 week ago) - Provides the functionality to compare PHP values for equality.
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.4.0](https://github.com/davidlattimore/wild/releases/tag/0.4.0), 1 week ago) - A very fast linker for Linux
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.0.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.4), 2 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [humbug/php-scoper](https://github.com/humbug/php-scoper) ([0.18.17](https://github.com/humbug/php-scoper/releases/tag/0.18.17), 3 weeks ago) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
