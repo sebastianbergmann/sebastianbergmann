@@ -13,8 +13,9 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
+- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (today)
+- [spriebsch/diContainer](https://github.com/spriebsch/diContainer) - A lightweight, smart and fast DI container with auto-wiring. (today)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (4 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (5 days ago)
 - [spriebsch/longbow](https://github.com/spriebsch/longbow) - Event Framework (6 days ago)
@@ -22,7 +23,6 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (2 weeks ago)
 - [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (2 weeks ago)
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (2 weeks ago)
-- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (3 weeks ago)
 
 ---
 
