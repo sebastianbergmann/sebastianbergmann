@@ -13,16 +13,16 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (3 days ago)
-- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (4 days ago)
 - [spriebsch/diContainer](https://github.com/spriebsch/diContainer) - A lightweight, smart and fast DI container with auto-wiring. (4 days ago)
 - [spriebsch/timestamp](https://github.com/spriebsch/timestamp) - A timestamp with microsecond granularity. (4 days ago)
 - [spriebsch/sqlite](https://github.com/spriebsch/sqlite) - Lightweight Sqlite wrapper with lazy connection and schema creation. (4 days ago)
+- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (4 days ago)
 - [spriebsch/filesystem](https://github.com/spriebsch/filesystem) - Lightweight object-oriented API to the filesystem. (4 days ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 week ago)
 - [spriebsch/longbow](https://github.com/spriebsch/longbow) - Event Framework (1 week ago)
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (1 week ago)
 
 ---
 
