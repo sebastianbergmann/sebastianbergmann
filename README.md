@@ -14,7 +14,7 @@ Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors
 #### 👷 Check out what I'm currently working on
 
 - [sebastianbergmann/phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project. (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
 - [spriebsch/diContainer](https://github.com/spriebsch/diContainer) - A lightweight, smart and fast DI container with auto-wiring. (4 days ago)
 - [spriebsch/timestamp](https://github.com/spriebsch/timestamp) - A timestamp with microsecond granularity. (4 days ago)
 - [spriebsch/sqlite](https://github.com/spriebsch/sqlite) - Lightweight Sqlite wrapper with lazy connection and schema creation. (4 days ago)
