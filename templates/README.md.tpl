@@ -1,13 +1,10 @@
-Hi!
+Hi there!
 
-I am [Sebastian Bergmann](https://sebastian-bergmann.de/index.html?ref=github).
-If you develop software using the PHP programming language then you may have come across my name.
-I am the creator and maintainer of [PHPUnit](https://phpunit.de/index.html?ref=github) as well as many other libraries and tools that are commonly used.
+I'm [Sebastian Bergmann](https://sebastian-bergmann.de/index.html?ref=github). If you develop software in PHP, you may have encountered my work: I'm the creator and maintainer of [PHPUnit](https://phpunit.de/index.html?ref=github), along with several other widely used libraries and tools in the PHP ecosystem.
 
-You cannot buy PHPUnit, but you can pay for PHPUnit.
-And the best way to do so benefits you, your team, and me: let me help you through [consulting, coaching, and training](https://thephp.cc/welcome?ref=github).
+PHPUnit is a complex and powerful tool, and it has always been, and will always remain, [Open Source](https://sebastian-bergmann.de/open-source.html?ref=github). Developing, testing, and supporting PHPUnit has taken thousands of hours of dedicated effort.
 
-Of course, you can also [sponsor my work on PHPUnit](https://phpunit.de/sponsors.html?ref=github).
+If you find my contributions to the PHP community valuable, I invite you to show your support. Every contribution, no matter the size, makes a difference. You can sponsor my work through GitHub Sponsors, [Liberapay](https://liberapay.com/sebastianbergmann), or [thanks.dev](https://thanks.dev/u/gh/sebastianbergmann). [Alternative sponsorship options for businesses](https://phpunit.de/sponsors.html?ref=github) are also available.
 
 ---
 
