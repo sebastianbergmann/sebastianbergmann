@@ -10,16 +10,16 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/code-unit-reverse-lookup](https://github.com/sebastianbergmann/code-unit-reverse-lookup) - Looks up which function or method a line of code belongs to (4 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (4 days ago)
-- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (4 days ago)
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (4 days ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (4 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (4 days ago)
-- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (4 days ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (4 days ago)
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (4 days ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (4 days ago)
+- [sebastianbergmann/code-unit-reverse-lookup](https://github.com/sebastianbergmann/code-unit-reverse-lookup) - Looks up which function or method a line of code belongs to (5 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (5 days ago)
+- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (5 days ago)
+- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (5 days ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (5 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (5 days ago)
+- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (5 days ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (5 days ago)
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (5 days ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (5 days ago)
 
 ---
 
@@ -27,7 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.2), 1 week ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.1.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.1.2), 2 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
-- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) ([3.0.3](https://github.com/sebastianbergmann/code-unit/releases/tag/3.0.3), 4 weeks ago) - Collection of value objects that represent the PHP code units
+- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) ([3.0.3](https://github.com/sebastianbergmann/code-unit/releases/tag/3.0.3), 1 month ago) - Collection of value objects that represent the PHP code units
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.2](https://github.com/sebastianbergmann/type/releases/tag/6.0.2), 1 month ago) - Collection of value objects that represent the types of the PHP type system
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.0.1](https://github.com/sebastianbergmann/comparator/releases/tag/7.0.1), 1 month ago) - Provides the functionality to compare PHP values for equality.
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.4.0](https://github.com/davidlattimore/wild/releases/tag/0.4.0), 1 month ago) - A very fast linker for Linux
