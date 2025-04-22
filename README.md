@@ -25,7 +25,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.2), 2 weeks ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.3), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.1.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.1.2), 2 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) ([3.0.3](https://github.com/sebastianbergmann/code-unit/releases/tag/3.0.3), 1 month ago) - Collection of value objects that represent the PHP code units
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.2](https://github.com/sebastianbergmann/type/releases/tag/6.0.2), 1 month ago) - Collection of value objects that represent the types of the PHP type system
