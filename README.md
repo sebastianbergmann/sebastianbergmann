@@ -10,10 +10,10 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (3 days ago)
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (3 days ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (6 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (4 days ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (4 days ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 week ago)
 - [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (1 week ago)
 - [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (2 weeks ago)
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (2 weeks ago)
@@ -30,7 +30,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) ([3.0.3](https://github.com/sebastianbergmann/code-unit/releases/tag/3.0.3), 1 month ago) - Collection of value objects that represent the PHP code units
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.2](https://github.com/sebastianbergmann/type/releases/tag/6.0.2), 1 month ago) - Collection of value objects that represent the types of the PHP type system
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.0.1](https://github.com/sebastianbergmann/comparator/releases/tag/7.0.1), 1 month ago) - Provides the functionality to compare PHP values for equality.
-- [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.4.0](https://github.com/davidlattimore/wild/releases/tag/0.4.0), 1 month ago) - A very fast linker for Linux
+- [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.4.0](https://github.com/davidlattimore/wild/releases/tag/0.4.0), 2 months ago) - A very fast linker for Linux
 - [humbug/php-scoper](https://github.com/humbug/php-scoper) ([0.18.17](https://github.com/humbug/php-scoper/releases/tag/0.18.17), 2 months ago) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([6.0.0](https://github.com/sebastianbergmann/version/releases/tag/6.0.0), 2 months ago) - Library that helps with managing the version number of Git-hosted PHP projects
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([7.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.0), 2 months ago) - Provides functionality to recursively process PHP variables
