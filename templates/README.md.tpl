@@ -4,7 +4,7 @@ I'm [Sebastian Bergmann](https://sebastian-bergmann.de/index.html?ref=github). I
 
 PHPUnit is a complex and powerful tool, and it has always been, and will always remain, [Open Source](https://sebastian-bergmann.de/open-source.html?ref=github). Developing, testing, and supporting PHPUnit has taken thousands of hours of dedicated effort.
 
-If you find my contributions to the PHP community valuable, I invite you to show your support. Every contribution, no matter the size, makes a difference. You can sponsor my work through GitHub Sponsors, [Liberapay](https://liberapay.com/sebastianbergmann), or [thanks.dev](https://thanks.dev/u/gh/sebastianbergmann). [Alternative sponsorship options for businesses](https://phpunit.de/sponsors.html?ref=github) are also available.
+If you find my contributions to the PHP community valuable, I invite you to show your support. Every contribution, no matter the size, makes a difference. You can sponsor my work through [GitHub Sponsors](https://github.com/sponsors/sebastianbergmann), [Liberapay](https://liberapay.com/sebastianbergmann), or [thanks.dev](https://thanks.dev/u/gh/sebastianbergmann). [Alternative sponsorship options for businesses](https://phpunit.de/sponsors.html?ref=github) are also available.
 
 ---
 
