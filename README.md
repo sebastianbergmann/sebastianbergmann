@@ -10,10 +10,10 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (2 days ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 week ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (3 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (3 days ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (2 weeks ago)
 - [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (2 weeks ago)
 - [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (3 weeks ago)
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (3 weeks ago)
@@ -25,8 +25,8 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.2.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.1), 2 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.4), 4 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.2.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.1), 3 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.4), 5 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) ([3.0.3](https://github.com/sebastianbergmann/code-unit/releases/tag/3.0.3), 1 month ago) - Collection of value objects that represent the PHP code units
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.2](https://github.com/sebastianbergmann/type/releases/tag/6.0.2), 1 month ago) - Collection of value objects that represent the types of the PHP type system
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.0.1](https://github.com/sebastianbergmann/comparator/releases/tag/7.0.1), 2 months ago) - Provides the functionality to compare PHP values for equality.
