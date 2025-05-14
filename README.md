@@ -25,13 +25,13 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.5.0](https://github.com/davidlattimore/wild/releases/tag/0.5.0), today) - A very fast linker for Linux
 - [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([1.0.4](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/1.0.4), 3 days ago) - Wrapper around PHP&#39;s mysqli extension
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.5), 3 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.2.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.1), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) ([3.0.3](https://github.com/sebastianbergmann/code-unit/releases/tag/3.0.3), 1 month ago) - Collection of value objects that represent the PHP code units
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.2](https://github.com/sebastianbergmann/type/releases/tag/6.0.2), 1 month ago) - Collection of value objects that represent the types of the PHP type system
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.0.1](https://github.com/sebastianbergmann/comparator/releases/tag/7.0.1), 2 months ago) - Provides the functionality to compare PHP values for equality.
-- [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.4.0](https://github.com/davidlattimore/wild/releases/tag/0.4.0), 2 months ago) - A very fast linker for Linux
 - [humbug/php-scoper](https://github.com/humbug/php-scoper) ([0.18.17](https://github.com/humbug/php-scoper/releases/tag/0.18.17), 2 months ago) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([6.0.0](https://github.com/sebastianbergmann/version/releases/tag/6.0.0), 3 months ago) - Library that helps with managing the version number of Git-hosted PHP projects
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([7.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.0), 3 months ago) - Provides functionality to recursively process PHP variables
