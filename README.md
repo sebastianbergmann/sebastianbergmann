@@ -10,25 +10,25 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 day ago)
-- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (3 days ago)
-- [thePHPcc/caledonia](https://github.com/thePHPcc/caledonia) -  (4 days ago)
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (4 days ago)
-- [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (4 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (2 days ago)
+- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (4 days ago)
+- [thePHPcc/caledonia](https://github.com/thePHPcc/caledonia) -  (5 days ago)
+- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (5 days ago)
+- [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (5 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (2 weeks ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (3 weeks ago)
-- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (4 weeks ago)
+- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (1 month ago)
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (1 month ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.3](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.3), 3 days ago) - https://www.testcontainers.org implementation for PHP
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([2.0.0](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/2.0.0), 4 days ago) - Wrapper around PHP&#39;s mysqli extension
-- [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) ([2.0.0](https://github.com/sebastianbergmann/csv-parser/releases/tag/2.0.0), 4 days ago) - Library for type-safe parsing of CSV files
-- [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.5.0](https://github.com/davidlattimore/wild/releases/tag/0.5.0), 4 days ago) - A very fast linker for Linux
+- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.3](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.3), 4 days ago) - https://www.testcontainers.org implementation for PHP
+- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([2.0.0](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/2.0.0), 5 days ago) - Wrapper around PHP&#39;s mysqli extension
+- [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) ([2.0.0](https://github.com/sebastianbergmann/csv-parser/releases/tag/2.0.0), 5 days ago) - Library for type-safe parsing of CSV files
+- [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.5.0](https://github.com/davidlattimore/wild/releases/tag/0.5.0), 5 days ago) - A very fast linker for Linux
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.5), 1 week ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.2.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.1), 2 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) ([3.0.3](https://github.com/sebastianbergmann/code-unit/releases/tag/3.0.3), 2 months ago) - Collection of value objects that represent the PHP code units
