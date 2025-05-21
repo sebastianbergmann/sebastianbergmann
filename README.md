@@ -25,12 +25,12 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.6), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([8.0.1](https://github.com/sebastianbergmann/environment/releases/tag/8.0.1), today) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.3](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.3), 6 days ago) - https://www.testcontainers.org implementation for PHP
 - [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([2.0.0](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/2.0.0), 1 week ago) - Wrapper around PHP&#39;s mysqli extension
 - [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) ([2.0.0](https://github.com/sebastianbergmann/csv-parser/releases/tag/2.0.0), 1 week ago) - Library for type-safe parsing of CSV files
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.5.0](https://github.com/davidlattimore/wild/releases/tag/0.5.0), 1 week ago) - A very fast linker for Linux
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.5), 1 week ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.2.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.1), 2 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) ([3.0.3](https://github.com/sebastianbergmann/code-unit/releases/tag/3.0.3), 2 months ago) - Collection of value objects that represent the PHP code units
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.2](https://github.com/sebastianbergmann/type/releases/tag/6.0.2), 2 months ago) - Collection of value objects that represent the types of the PHP type system
