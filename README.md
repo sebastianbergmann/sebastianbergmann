@@ -10,16 +10,16 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 day ago)
-- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 days ago)
-- [thePHPcc/caledonia](https://github.com/thePHPcc/caledonia) -  (4 days ago)
-- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects (5 days ago)
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (5 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (5 days ago)
-- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (5 days ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (5 days ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (5 days ago)
+- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (2 days ago)
+- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (3 days ago)
+- [thePHPcc/caledonia](https://github.com/thePHPcc/caledonia) -  (5 days ago)
+- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects (6 days ago)
+- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (6 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (6 days ago)
+- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) - Collection of value objects that represent the PHP code units (6 days ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (6 days ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (6 days ago)
 
 ---
 
