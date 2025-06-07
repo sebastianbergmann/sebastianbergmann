@@ -25,7 +25,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.0), 1 day ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.1), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.3.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.0), 2 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([8.0.2](https://github.com/sebastianbergmann/environment/releases/tag/8.0.2), 2 weeks ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.3](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.3), 3 weeks ago) - https://www.testcontainers.org implementation for PHP
