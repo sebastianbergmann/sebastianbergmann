@@ -25,9 +25,9 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.3), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([11.0.10](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.10), 2 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.1.0](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.0), 3 days ago) - Provides the functionality to compare PHP values for equality.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.2), 1 week ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([8.0.2](https://github.com/sebastianbergmann/environment/releases/tag/8.0.2), 1 month ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.3](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.3), 1 month ago) - https://www.testcontainers.org implementation for PHP
 - [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([2.0.0](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/2.0.0), 1 month ago) - Wrapper around PHP&#39;s mysqli extension
