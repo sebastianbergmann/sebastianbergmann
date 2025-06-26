@@ -1,6 +1,8 @@
 Hi there!
 
-I'm [Sebastian Bergmann](https://sebastian-bergmann.de/index.html?ref=github). If you develop software in PHP, you may have encountered my work: I'm the creator and maintainer of [PHPUnit](https://phpunit.de/index.html?ref=github), along with several other widely used libraries and tools in the PHP ecosystem.
+I'm [Sebastian Bergmann](https://phpunit.expert/en.html?ref=github). If you develop software in PHP, you may have encountered my work: I'm the creator and maintainer of [PHPUnit](https://phpunit.de/index.html?ref=github), along with several other widely used libraries and tools in the PHP ecosystem.
+
+[I can help you adopt PHPUnit, optimize its use, refine development workflows, and write more testable code.](https://phpunit.expert/en.html?ref=github)
 
 PHPUnit is a complex and powerful tool, and it has always been, and will always remain, [Open Source](https://sebastian-bergmann.de/open-source.html?ref=github). Developing, testing, and supporting PHPUnit has taken thousands of hours of dedicated effort.
 
