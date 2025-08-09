@@ -13,8 +13,8 @@ If you find my contributions to the PHP community valuable, I invite you to show
 #### 👷 Check out what I'm currently working on
 
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (today)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 day ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 week ago)
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (2 weeks ago)
@@ -27,8 +27,8 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.1), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.3](https://github.com/sebastianbergmann/type/releases/tag/6.0.3), today) - Collection of value objects that represent the types of the PHP type system
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.0), 1 week ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.2), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.1.0](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.0), 1 month ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([8.0.2](https://github.com/sebastianbergmann/environment/releases/tag/8.0.2), 2 months ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
