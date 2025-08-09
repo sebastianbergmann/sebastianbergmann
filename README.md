@@ -19,14 +19,15 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 week ago)
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (2 weeks ago)
 - [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (1 month ago)
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (1 month ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 month ago)
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (1 month ago)
 - [thePHPcc/caledonia](https://github.com/thePHPcc/caledonia) -  (1 month ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.3](https://github.com/sebastianbergmann/type/releases/tag/6.0.3), today) - Collection of value objects that represent the types of the PHP type system
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.0), 1 week ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.2), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.1.0](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.0), 1 month ago) - Provides the functionality to compare PHP values for equality.
@@ -36,7 +37,6 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) ([2.0.0](https://github.com/sebastianbergmann/csv-parser/releases/tag/2.0.0), 2 months ago) - Library for type-safe parsing of CSV files
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.5.0](https://github.com/davidlattimore/wild/releases/tag/0.5.0), 2 months ago) - A very fast linker for Linux
 - [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) ([3.0.3](https://github.com/sebastianbergmann/code-unit/releases/tag/3.0.3), 4 months ago) - Collection of value objects that represent the PHP code units
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.2](https://github.com/sebastianbergmann/type/releases/tag/6.0.2), 4 months ago) - Collection of value objects that represent the types of the PHP type system
 
 ---
 
