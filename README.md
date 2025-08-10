@@ -27,6 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([5.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/5.0.1), today) - Provides functionality to recursively process PHP variables
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.1), 1 day ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.3](https://github.com/sebastianbergmann/type/releases/tag/6.0.3), 1 day ago) - Collection of value objects that represent the types of the PHP type system
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.2), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
@@ -36,7 +37,6 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([2.0.0](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/2.0.0), 2 months ago) - Wrapper around PHP&#39;s mysqli extension
 - [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) ([2.0.0](https://github.com/sebastianbergmann/csv-parser/releases/tag/2.0.0), 2 months ago) - Library for type-safe parsing of CSV files
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.5.0](https://github.com/davidlattimore/wild/releases/tag/0.5.0), 2 months ago) - A very fast linker for Linux
-- [sebastianbergmann/code-unit](https://github.com/sebastianbergmann/code-unit) ([3.0.3](https://github.com/sebastianbergmann/code-unit/releases/tag/3.0.3), 4 months ago) - Collection of value objects that represent the PHP code units
 
 ---
 
