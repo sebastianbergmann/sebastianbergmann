@@ -12,7 +12,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (3 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (4 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (6 days ago)
@@ -27,9 +27,9 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.5), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([7.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.1), 3 days ago) - Provides functionality to recursively process PHP variables
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([8.0.3](https://github.com/sebastianbergmann/environment/releases/tag/8.0.3), 4 days ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.4), 4 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.1.2](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.2), 6 days ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.3](https://github.com/sebastianbergmann/type/releases/tag/6.0.3), 1 week ago) - Collection of value objects that represent the types of the PHP type system
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.2), 2 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
