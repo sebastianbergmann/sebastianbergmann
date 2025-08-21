@@ -12,8 +12,8 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (1 week ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 week ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 week ago)
@@ -27,8 +27,8 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.1.3](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.3), today) - Provides the functionality to compare PHP values for equality.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.5), 4 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.1.3](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.3), 1 day ago) - Provides the functionality to compare PHP values for equality.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.5), 5 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([7.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.1), 1 week ago) - Provides functionality to recursively process PHP variables
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([8.0.3](https://github.com/sebastianbergmann/environment/releases/tag/8.0.3), 1 week ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.3](https://github.com/sebastianbergmann/type/releases/tag/6.0.3), 1 week ago) - Collection of value objects that represent the types of the PHP type system
