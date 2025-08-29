@@ -13,9 +13,9 @@ If you find my contributions to the PHP community valuable, I invite you to show
 #### 👷 Check out what I'm currently working on
 
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (1 day ago)
+- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
 - [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (2 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 week ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (2 weeks ago)
@@ -27,9 +27,9 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) ([8.0.1](https://github.com/sebastianbergmann/global-state/releases/tag/8.0.1), 1 day ago) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.3.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.4), today) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) ([8.0.2](https://github.com/sebastianbergmann/global-state/releases/tag/8.0.2), today) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.7), 1 day ago) - The PHP Unit Testing framework.
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.3.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.3), 2 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.1.3](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.3), 1 week ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([7.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.1), 2 weeks ago) - Provides functionality to recursively process PHP variables
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([8.0.3](https://github.com/sebastianbergmann/environment/releases/tag/8.0.3), 2 weeks ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
