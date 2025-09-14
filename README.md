@@ -27,8 +27,8 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.11](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.11), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) ([4.1.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.1.0), 1 day ago) - Library for parsing CLI options
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.10](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.10), 3 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.3.7](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.7), 4 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([5.0.4](https://github.com/sebastianbergmann/comparator/releases/tag/5.0.4), 1 week ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) ([8.0.2](https://github.com/sebastianbergmann/global-state/releases/tag/8.0.2), 2 weeks ago) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component
