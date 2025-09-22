@@ -12,21 +12,22 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (today)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (3 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (5 days ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (2 weeks ago)
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (2 weeks ago)
 - [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (2 weeks ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (2 weeks ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (3 weeks ago)
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (3 weeks ago)
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (3 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([7.0.1](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.1), today) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.12](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.12), 1 day ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.3.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.8), 5 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) ([4.2.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.0), 1 week ago) - Library for parsing CLI options
@@ -36,7 +37,6 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([8.0.3](https://github.com/sebastianbergmann/environment/releases/tag/8.0.3), 1 month ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([6.0.3](https://github.com/sebastianbergmann/type/releases/tag/6.0.3), 1 month ago) - Collection of value objects that represent the types of the PHP type system
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.3](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.3), 4 months ago) - https://www.testcontainers.org implementation for PHP
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) ([2.0.0](https://github.com/sebastianbergmann/mysqli-wrapper/releases/tag/2.0.0), 4 months ago) - Wrapper around PHP&#39;s mysqli extension
 
 ---
 
