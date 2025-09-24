@@ -12,11 +12,11 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 day ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 day ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (4 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (6 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (2 days ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (2 days ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (5 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 week ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (2 weeks ago)
 - [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (3 weeks ago)
@@ -27,10 +27,10 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.13](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.13), today) - The PHP Unit Testing framework.
-- [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.6.0](https://github.com/davidlattimore/wild/releases/tag/0.6.0), today) - A very fast linker for Linux
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([7.0.1](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.1), 1 day ago) - Provides the functionality to export PHP variables for visualization
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.3.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.8), 6 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.13](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.13), 1 day ago) - The PHP Unit Testing framework.
+- [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.6.0](https://github.com/davidlattimore/wild/releases/tag/0.6.0), 1 day ago) - A very fast linker for Linux
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([7.0.1](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.1), 2 days ago) - Provides the functionality to export PHP variables for visualization
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.3.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.8), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) ([4.2.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.0), 1 week ago) - Library for parsing CLI options
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([5.0.4](https://github.com/sebastianbergmann/comparator/releases/tag/5.0.4), 2 weeks ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) ([8.0.2](https://github.com/sebastianbergmann/global-state/releases/tag/8.0.2), 3 weeks ago) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component
