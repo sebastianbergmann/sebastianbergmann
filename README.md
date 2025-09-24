@@ -27,10 +27,10 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.4.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.4.0), today) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.14](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.14), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([7.0.2](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.2), today) - Provides the functionality to export PHP variables for visualization
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.6.0](https://github.com/davidlattimore/wild/releases/tag/0.6.0), 1 day ago) - A very fast linker for Linux
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.3.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.8), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) ([4.2.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.0), 1 week ago) - Library for parsing CLI options
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([5.0.4](https://github.com/sebastianbergmann/comparator/releases/tag/5.0.4), 2 weeks ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) ([8.0.2](https://github.com/sebastianbergmann/global-state/releases/tag/8.0.2), 3 weeks ago) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component
