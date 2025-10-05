@@ -20,8 +20,8 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 week ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (1 week ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 week ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 week ago)
 
 ---
 
