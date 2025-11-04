@@ -27,11 +27,11 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.7.0](https://github.com/davidlattimore/wild/releases/tag/0.7.0), today) - A very fast linker for Linux
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.2), 5 days ago) - The PHP Unit Testing framework.
 - [humbug/php-scoper](https://github.com/humbug/php-scoper) ([0.18.18](https://github.com/humbug/php-scoper/releases/tag/0.18.18), 2 weeks ago) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.4.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.4.0), 1 month ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([7.0.2](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.2), 1 month ago) - Provides the functionality to export PHP variables for visualization
-- [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.6.0](https://github.com/davidlattimore/wild/releases/tag/0.6.0), 1 month ago) - A very fast linker for Linux
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) ([4.2.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.0), 1 month ago) - Library for parsing CLI options
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([5.0.4](https://github.com/sebastianbergmann/comparator/releases/tag/5.0.4), 1 month ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) ([8.0.2](https://github.com/sebastianbergmann/global-state/releases/tag/8.0.2), 2 months ago) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component
