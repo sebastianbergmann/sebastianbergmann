@@ -12,7 +12,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 week ago)
 - [thePHPcc/caledonia](https://github.com/thePHPcc/caledonia) -  (1 week ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 week ago)
@@ -27,7 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.3), 2 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.3), 3 days ago) - The PHP Unit Testing framework.
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.7.0](https://github.com/davidlattimore/wild/releases/tag/0.7.0), 1 week ago) - A very fast linker for Linux
 - [humbug/php-scoper](https://github.com/humbug/php-scoper) ([0.18.18](https://github.com/humbug/php-scoper/releases/tag/0.18.18), 1 month ago) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.4.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.4.0), 1 month ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
