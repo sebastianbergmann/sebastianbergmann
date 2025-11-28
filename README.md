@@ -12,10 +12,10 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (2 days ago)
-- [theseer/Autoload](https://github.com/theseer/Autoload) - A lightweight php namespace aware autoload generator and phar archive builder (6 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (3 days ago)
+- [theseer/Autoload](https://github.com/theseer/Autoload) - A lightweight php namespace aware autoload generator and phar archive builder (1 week ago)
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 week ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (3 weeks ago)
 - [thePHPcc/caledonia](https://github.com/thePHPcc/caledonia) -  (3 weeks ago)
@@ -27,7 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.4), 6 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.4), 1 week ago) - The PHP Unit Testing framework.
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.7.0](https://github.com/davidlattimore/wild/releases/tag/0.7.0), 3 weeks ago) - A very fast linker for Linux
 - [humbug/php-scoper](https://github.com/humbug/php-scoper) ([0.18.18](https://github.com/humbug/php-scoper/releases/tag/0.18.18), 1 month ago) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.4.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.4.0), 2 months ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
