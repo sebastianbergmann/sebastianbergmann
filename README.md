@@ -12,25 +12,25 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
+- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
 - [SymfonyCon/2025-talks](https://github.com/SymfonyCon/2025-talks) -  (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
 - [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (4 days ago)
 - [theseer/Autoload](https://github.com/theseer/Autoload) - A lightweight php namespace aware autoload generator and phar archive builder (1 week ago)
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 week ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (3 weeks ago)
 - [thePHPcc/caledonia](https://github.com/thePHPcc/caledonia) -  (3 weeks ago)
 - [php/web-php](https://github.com/php/web-php) - The www.php.net site (3 weeks ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 month ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.5.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.0), today) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.4), 1 week ago) - The PHP Unit Testing framework.
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.7.0](https://github.com/davidlattimore/wild/releases/tag/0.7.0), 3 weeks ago) - A very fast linker for Linux
 - [humbug/php-scoper](https://github.com/humbug/php-scoper) ([0.18.18](https://github.com/humbug/php-scoper/releases/tag/0.18.18), 1 month ago) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.4.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.4.0), 2 months ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([7.0.2](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.2), 2 months ago) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) ([4.2.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.0), 2 months ago) - Library for parsing CLI options
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([5.0.4](https://github.com/sebastianbergmann/comparator/releases/tag/5.0.4), 2 months ago) - Provides the functionality to compare PHP values for equality.
