@@ -27,7 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.0), 1 day ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.46](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.46), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.5.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.0), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.7.0](https://github.com/davidlattimore/wild/releases/tag/0.7.0), 1 month ago) - A very fast linker for Linux
 - [humbug/php-scoper](https://github.com/humbug/php-scoper) ([0.18.18](https://github.com/humbug/php-scoper/releases/tag/0.18.18), 1 month ago) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
