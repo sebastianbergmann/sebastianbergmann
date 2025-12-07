@@ -14,8 +14,8 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (2 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 week ago)
 - [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (1 week ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 week ago)
 - [SymfonyCon/2025-talks](https://github.com/SymfonyCon/2025-talks) -  (1 week ago)
 - [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (1 week ago)
 - [theseer/Autoload](https://github.com/theseer/Autoload) - A lightweight php namespace aware autoload generator and phar archive builder (2 weeks ago)
