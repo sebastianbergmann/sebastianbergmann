@@ -27,7 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.3), 4 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.4), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.5.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.1), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [theseer/Autoload](https://github.com/theseer/Autoload) ([1.29.4](https://github.com/theseer/Autoload/releases/tag/1.29.4), 1 week ago) - A lightweight php namespace aware autoload generator and phar archive builder
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.7.0](https://github.com/davidlattimore/wild/releases/tag/0.7.0), 1 month ago) - A very fast linker for Linux
