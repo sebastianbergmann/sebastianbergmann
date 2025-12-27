@@ -27,6 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.4](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.4), today) - https://www.testcontainers.org implementation for PHP
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([12.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.2), 3 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.4), 1 week ago) - The PHP Unit Testing framework.
 - [theseer/Autoload](https://github.com/theseer/Autoload) ([1.29.4](https://github.com/theseer/Autoload/releases/tag/1.29.4), 2 weeks ago) - A lightweight php namespace aware autoload generator and phar archive builder
@@ -36,7 +37,6 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) ([4.2.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.0), 3 months ago) - Library for parsing CLI options
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([5.0.4](https://github.com/sebastianbergmann/comparator/releases/tag/5.0.4), 3 months ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) ([8.0.2](https://github.com/sebastianbergmann/global-state/releases/tag/8.0.2), 4 months ago) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([7.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.1), 4 months ago) - Provides functionality to recursively process PHP variables
 
 ---
 
