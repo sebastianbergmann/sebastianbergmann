@@ -14,11 +14,11 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 day ago)
+- [curl/stats](https://github.com/curl/stats) - Scripts for generating project statistics and for plotting them as graphs. (2 days ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (4 days ago)
-- [nikic/PHP-Fuzzer](https://github.com/nikic/PHP-Fuzzer) - Experimental fuzzer for PHP libraries (1 week ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 week ago)
+- [nikic/PHP-Fuzzer](https://github.com/nikic/PHP-Fuzzer) - Experimental fuzzer for PHP libraries (1 week ago)
 - [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (1 week ago)
-- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria. (2 weeks ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (2 weeks ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (2 weeks ago)
 - [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) - Invoke PHP callables with a timeout (2 weeks ago)
