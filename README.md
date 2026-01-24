@@ -27,7 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([8.5.51](https://github.com/sebastianbergmann/phpunit/releases/tag/8.5.51), today) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.7), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.4), today) - Provides the functionality to compare PHP values for equality.
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.8.0](https://github.com/davidlattimore/wild/releases/tag/0.8.0), 1 week ago) - A very fast linker for Linux
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.4](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.4), 4 weeks ago) - https://www.testcontainers.org implementation for PHP
