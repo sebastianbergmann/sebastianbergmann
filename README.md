@@ -12,8 +12,8 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (3 days ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 week ago)
 - [curl/stats](https://github.com/curl/stats) - Scripts for generating project statistics and for plotting them as graphs. (1 week ago)
@@ -27,7 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.50](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.50), today) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.8), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.4), 3 days ago) - Provides the functionality to compare PHP values for equality.
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.8.0](https://github.com/davidlattimore/wild/releases/tag/0.8.0), 1 week ago) - A very fast linker for Linux
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.4](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.4), 1 month ago) - https://www.testcontainers.org implementation for PHP
