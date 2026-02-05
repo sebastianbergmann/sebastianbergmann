@@ -12,7 +12,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (2 days ago)
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria. (3 days ago)
 - [sebastianbergmann/file-filter](https://github.com/sebastianbergmann/file-filter) - Library for filtering files (3 days ago)
@@ -27,8 +27,8 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.9](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.9), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([6.0.1](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/6.0.1), 3 days ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.8), 1 week ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.4), 1 week ago) - Provides the functionality to compare PHP values for equality.
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.8.0](https://github.com/davidlattimore/wild/releases/tag/0.8.0), 2 weeks ago) - A very fast linker for Linux
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.4](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.4), 1 month ago) - https://www.testcontainers.org implementation for PHP
