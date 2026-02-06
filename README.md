@@ -12,23 +12,23 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 day ago)
-- [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (1 day ago)
+- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria. (today)
+- [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) - Invoke PHP callables with a timeout (today)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 day ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (1 day ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (3 days ago)
-- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria. (4 days ago)
 - [sebastianbergmann/file-filter](https://github.com/sebastianbergmann/file-filter) - Library for filtering files (4 days ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 week ago)
-- [curl/stats](https://github.com/curl/stats) - Scripts for generating project statistics and for plotting them as graphs. (2 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([7.0.0](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/7.0.0), today) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.9](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.9), 1 day ago) - The PHP Unit Testing framework.
-- [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([6.0.1](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/6.0.1), 4 days ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([7.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.4), 1 week ago) - Provides the functionality to compare PHP values for equality.
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) ([0.8.0](https://github.com/davidlattimore/wild/releases/tag/0.8.0), 3 weeks ago) - A very fast linker for Linux
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.4](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.4), 1 month ago) - https://www.testcontainers.org implementation for PHP
