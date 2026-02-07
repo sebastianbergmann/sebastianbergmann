@@ -12,31 +12,31 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects (today)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) - Allows reflection of object attributes, including inherited and non-public ones (today)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (today)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (today)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (today)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (today)
-- [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) - Invoke PHP callables with a timeout (today)
-- [sebastianbergmann/file-filter](https://github.com/sebastianbergmann/file-filter) - Library for filtering files (today)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (today)
+- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) - Allows reflection of object attributes, including inherited and non-public ones (1 day ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 day ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 day ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 day ago)
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (1 day ago)
+- [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) - Invoke PHP callables with a timeout (1 day ago)
+- [sebastianbergmann/file-filter](https://github.com/sebastianbergmann/file-filter) - Library for filtering files (1 day ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 day ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([13.0.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/13.0.1), today) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.0.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.0), today) - The PHP Unit Testing framework.
-- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([7.0.0](https://github.com/sebastianbergmann/version/releases/tag/7.0.0), today) - Library that helps with managing the version number of Git-hosted PHP projects
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([7.0.0](https://github.com/sebastianbergmann/type/releases/tag/7.0.0), today) - Collection of value objects that represent the types of the PHP type system
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([8.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/8.0.0), today) - Provides functionality to recursively process PHP variables
-- [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) ([6.0.0](https://github.com/sebastianbergmann/object-reflector/releases/tag/6.0.0), today) - Allows reflection of object attributes, including inherited and non-public ones
-- [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) ([8.0.0](https://github.com/sebastianbergmann/object-enumerator/releases/tag/8.0.0), today) - Traverses array structures and object graphs to enumerate all referenced objects
-- [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) ([5.0.0](https://github.com/sebastianbergmann/lines-of-code/releases/tag/5.0.0), today) - Library for counting the lines of code in PHP source code
-- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) ([9.0.0](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.0), today) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.0.0](https://github.com/sebastianbergmann/exporter/releases/tag/8.0.0), today) - Provides the functionality to export PHP variables for visualization
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([13.0.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/13.0.1), 1 day ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.0.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.0), 1 day ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([7.0.0](https://github.com/sebastianbergmann/version/releases/tag/7.0.0), 1 day ago) - Library that helps with managing the version number of Git-hosted PHP projects
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([7.0.0](https://github.com/sebastianbergmann/type/releases/tag/7.0.0), 1 day ago) - Collection of value objects that represent the types of the PHP type system
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([8.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/8.0.0), 1 day ago) - Provides functionality to recursively process PHP variables
+- [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) ([6.0.0](https://github.com/sebastianbergmann/object-reflector/releases/tag/6.0.0), 1 day ago) - Allows reflection of object attributes, including inherited and non-public ones
+- [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) ([8.0.0](https://github.com/sebastianbergmann/object-enumerator/releases/tag/8.0.0), 1 day ago) - Traverses array structures and object graphs to enumerate all referenced objects
+- [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) ([5.0.0](https://github.com/sebastianbergmann/lines-of-code/releases/tag/5.0.0), 1 day ago) - Library for counting the lines of code in PHP source code
+- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) ([9.0.0](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.0), 1 day ago) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.0.0](https://github.com/sebastianbergmann/exporter/releases/tag/8.0.0), 1 day ago) - Provides the functionality to export PHP variables for visualization
 
 ---
 
