@@ -12,15 +12,15 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (today)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (4 days ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (today)
+- [sebastianbergmann/foal](https://github.com/sebastianbergmann/foal) - Tool to find lines eliminated by OpCache&#39;s bytecode optimizer (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (6 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 week ago)
-- [sebastianbergmann/file-filter](https://github.com/sebastianbergmann/file-filter) - Library for filtering files (1 week ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 week ago)
+- [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) - Library for counting the lines of code in PHP source code (1 week ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (1 week ago)
-- [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) - Invoke PHP callables with a timeout (1 week ago)
+- [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) - Allows reflection of object attributes, including inherited and non-public ones (1 week ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 week ago)
 
 ---
