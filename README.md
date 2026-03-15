@@ -12,13 +12,13 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (2 days ago)
 - [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (5 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (5 days ago)
 - [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (5 days ago)
 - [sebastianbergmann/file-filter](https://github.com/sebastianbergmann/file-filter) - Library for filtering files (1 week ago)
 - [sebastianbergmann/git-state](https://github.com/sebastianbergmann/git-state) - Library for describing the state of a Git checkout. (1 week ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 week ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 week ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (2 weeks ago)
 - [sebastianbergmann/foal](https://github.com/sebastianbergmann/foal) - Tool to find lines eliminated by OpCache&#39;s bytecode optimizer (3 weeks ago)
@@ -27,6 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.0.1](https://github.com/sebastianbergmann/environment/releases/tag/9.0.1), today) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.8](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.8), 3 days ago) - https://www.testcontainers.org implementation for PHP
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.5), 3 weeks ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([13.0.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/13.0.1), 1 month ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
@@ -36,7 +37,6 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) ([6.0.0](https://github.com/sebastianbergmann/object-reflector/releases/tag/6.0.0), 1 month ago) - Allows reflection of object attributes, including inherited and non-public ones
 - [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) ([8.0.0](https://github.com/sebastianbergmann/object-enumerator/releases/tag/8.0.0), 1 month ago) - Traverses array structures and object graphs to enumerate all referenced objects
 - [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) ([5.0.0](https://github.com/sebastianbergmann/lines-of-code/releases/tag/5.0.0), 1 month ago) - Library for counting the lines of code in PHP source code
-- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) ([9.0.0](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.0), 1 month ago) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component
 
 ---
 
