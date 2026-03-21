@@ -27,6 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/git-state](https://github.com/sebastianbergmann/git-state) ([1.0.0](https://github.com/sebastianbergmann/git-state/releases/tag/1.0.0), today) - Library for describing the state of a Git checkout.
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.0.1](https://github.com/sebastianbergmann/environment/releases/tag/9.0.1), 6 days ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.8](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.8), 1 week ago) - https://www.testcontainers.org implementation for PHP
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.5), 1 month ago) - The PHP Unit Testing framework.
@@ -36,7 +37,6 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([8.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/8.0.0), 1 month ago) - Provides functionality to recursively process PHP variables
 - [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) ([6.0.0](https://github.com/sebastianbergmann/object-reflector/releases/tag/6.0.0), 1 month ago) - Allows reflection of object attributes, including inherited and non-public ones
 - [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) ([8.0.0](https://github.com/sebastianbergmann/object-enumerator/releases/tag/8.0.0), 1 month ago) - Traverses array structures and object graphs to enumerate all referenced objects
-- [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) ([5.0.0](https://github.com/sebastianbergmann/lines-of-code/releases/tag/5.0.0), 1 month ago) - Library for counting the lines of code in PHP source code
 
 ---
 
