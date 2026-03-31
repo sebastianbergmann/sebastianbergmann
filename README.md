@@ -27,10 +27,10 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.0.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.6), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.1.0](https://github.com/sebastianbergmann/environment/releases/tag/9.1.0), 1 week ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 - [sebastianbergmann/git-state](https://github.com/sebastianbergmann/git-state) ([1.0.0](https://github.com/sebastianbergmann/git-state/releases/tag/1.0.0), 1 week ago) - Library for describing the state of a Git checkout.
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.8](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.8), 2 weeks ago) - https://www.testcontainers.org implementation for PHP
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.5), 1 month ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([13.0.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/13.0.1), 1 month ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([7.0.0](https://github.com/sebastianbergmann/version/releases/tag/7.0.0), 1 month ago) - Library that helps with managing the version number of Git-hosted PHP projects
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([7.0.0](https://github.com/sebastianbergmann/type/releases/tag/7.0.0), 1 month ago) - Collection of value objects that represent the types of the PHP type system
