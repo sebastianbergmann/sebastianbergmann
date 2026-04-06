@@ -12,21 +12,22 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 day ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 day ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (2 days ago)
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (3 days ago)
-- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (3 days ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (3 days ago)
+- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (3 days ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (3 days ago)
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 week ago)
 - [sebastianbergmann/git-state](https://github.com/sebastianbergmann/git-state) - Library for describing the state of a Git checkout. (2 weeks ago)
-- [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (3 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.1.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.0), today) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([8.1.0](https://github.com/sebastianbergmann/diff/releases/tag/8.1.0), 1 day ago) - Diff implementation
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.2.0](https://github.com/sebastianbergmann/environment/releases/tag/9.2.0), 1 day ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.0), 3 days ago) - The PHP Unit Testing framework.
@@ -36,7 +37,6 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([7.0.0](https://github.com/sebastianbergmann/version/releases/tag/7.0.0), 1 month ago) - Library that helps with managing the version number of Git-hosted PHP projects
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([7.0.0](https://github.com/sebastianbergmann/type/releases/tag/7.0.0), 1 month ago) - Collection of value objects that represent the types of the PHP type system
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([8.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/8.0.0), 1 month ago) - Provides functionality to recursively process PHP variables
-- [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) ([6.0.0](https://github.com/sebastianbergmann/object-reflector/releases/tag/6.0.0), 1 month ago) - Allows reflection of object attributes, including inherited and non-public ones
 
 ---
 
