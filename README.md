@@ -13,20 +13,21 @@ If you find my contributions to the PHP community valuable, I invite you to show
 #### 👷 Check out what I'm currently working on
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) - Invoke PHP callables with a timeout (1 day ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 day ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (today)
+- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) - A simple template engine. (1 day ago)
 - [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) - Allows reflection of object attributes, including inherited and non-public ones (1 day ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 day ago)
 - [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) - Traverses array structures and object graphs to enumerate all referenced objects (1 day ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 day ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 day ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.0.1](https://github.com/sebastianbergmann/exporter/releases/tag/8.0.1), today) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.1.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.1), 2 days ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.1), 2 days ago) - The PHP Unit Testing framework.
 - [signalkraft/mypyllant-component](https://github.com/signalkraft/mypyllant-component) ([v0.9.13](https://github.com/signalkraft/mypyllant-component/releases/tag/v0.9.13), 3 days ago) - Home Assistant component for the myVAILLANT API, controls Vaillant devices such as aroTHERM heatpumps and ecoTEC boilers
@@ -36,7 +37,6 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/git-state](https://github.com/sebastianbergmann/git-state) ([1.0.0](https://github.com/sebastianbergmann/git-state/releases/tag/1.0.0), 2 weeks ago) - Library for describing the state of a Git checkout.
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.8](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.8), 4 weeks ago) - https://www.testcontainers.org implementation for PHP
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([7.0.0](https://github.com/sebastianbergmann/version/releases/tag/7.0.0), 2 months ago) - Library that helps with managing the version number of Git-hosted PHP projects
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([7.0.0](https://github.com/sebastianbergmann/type/releases/tag/7.0.0), 2 months ago) - Collection of value objects that represent the types of the PHP type system
 
 ---
 
