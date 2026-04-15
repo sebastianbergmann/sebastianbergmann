@@ -12,25 +12,25 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (today)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 day ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (4 days ago)
-- [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) - Invoke PHP callables with a timeout (5 days ago)
-- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) - A simple template engine. (5 days ago)
-- [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) - Allows reflection of object attributes, including inherited and non-public ones (5 days ago)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (5 days ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (5 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 day ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (2 days ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (5 days ago)
+- [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) - Invoke PHP callables with a timeout (6 days ago)
+- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) - A simple template engine. (6 days ago)
+- [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) - Allows reflection of object attributes, including inherited and non-public ones (6 days ago)
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (6 days ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (6 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.1.2](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.2), today) - Provides the functionality to compare PHP values for equality.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.3), 1 day ago) - The PHP Unit Testing framework.
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.1.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.1), 1 day ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.0.1](https://github.com/sebastianbergmann/exporter/releases/tag/8.0.1), 4 days ago) - Provides the functionality to export PHP variables for visualization
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.1.2](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.2), 1 day ago) - Provides the functionality to compare PHP values for equality.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.3), 2 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.1.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.1), 2 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.0.1](https://github.com/sebastianbergmann/exporter/releases/tag/8.0.1), 5 days ago) - Provides the functionality to export PHP variables for visualization
 - [signalkraft/mypyllant-component](https://github.com/signalkraft/mypyllant-component) ([v0.9.13](https://github.com/signalkraft/mypyllant-component/releases/tag/v0.9.13), 1 week ago) - Home Assistant component for the myVAILLANT API, controls Vaillant devices such as aroTHERM heatpumps and ecoTEC boilers
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([8.1.0](https://github.com/sebastianbergmann/diff/releases/tag/8.1.0), 1 week ago) - Diff implementation
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.2.0](https://github.com/sebastianbergmann/environment/releases/tag/9.2.0), 1 week ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
