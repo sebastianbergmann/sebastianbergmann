@@ -27,8 +27,8 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.4), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.1.2](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.2), 1 day ago) - Provides the functionality to compare PHP values for equality.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.3), 2 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.1.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.1), 2 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.0.1](https://github.com/sebastianbergmann/exporter/releases/tag/8.0.1), 5 days ago) - Provides the functionality to export PHP variables for visualization
 - [signalkraft/mypyllant-component](https://github.com/signalkraft/mypyllant-component) ([v0.9.13](https://github.com/signalkraft/mypyllant-component/releases/tag/v0.9.13), 1 week ago) - Home Assistant component for the myVAILLANT API, controls Vaillant devices such as aroTHERM heatpumps and ecoTEC boilers
