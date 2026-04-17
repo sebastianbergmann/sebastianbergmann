@@ -27,7 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.5), 1 day ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.6), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.0.2](https://github.com/sebastianbergmann/exporter/releases/tag/8.0.2), 2 days ago) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.3.0](https://github.com/sebastianbergmann/environment/releases/tag/9.3.0), 2 days ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.1.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.2), 2 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
