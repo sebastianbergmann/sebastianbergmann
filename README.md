@@ -27,9 +27,9 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.1.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.4), today) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/file-filter](https://github.com/sebastianbergmann/file-filter) ([1.0.0](https://github.com/sebastianbergmann/file-filter/releases/tag/1.0.0), 1 day ago) - Library for filtering files
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.7), 5 days ago) - The PHP Unit Testing framework.
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.1.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.3), 5 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.0.2](https://github.com/sebastianbergmann/exporter/releases/tag/8.0.2), 1 week ago) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.3.0](https://github.com/sebastianbergmann/environment/releases/tag/9.3.0), 1 week ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.1.2](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.2), 1 week ago) - Provides the functionality to compare PHP values for equality.
