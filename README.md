@@ -12,12 +12,12 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/file-filter](https://github.com/sebastianbergmann/file-filter) - Library for filtering files (4 days ago)
-- [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories (4 days ago)
-- [ThePHPF/foundation](https://github.com/ThePHPF/foundation) - The foundation documentation &amp; policies. (5 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/file-filter](https://github.com/sebastianbergmann/file-filter) - Library for filtering files (5 days ago)
+- [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories (5 days ago)
+- [ThePHPF/foundation](https://github.com/ThePHPF/foundation) - The foundation documentation &amp; policies. (6 days ago)
 - [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (1 week ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 week ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 week ago)
@@ -27,8 +27,8 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.1.6](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.6), 2 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
-- [sebastianbergmann/file-filter](https://github.com/sebastianbergmann/file-filter) ([1.0.0](https://github.com/sebastianbergmann/file-filter/releases/tag/1.0.0), 4 days ago) - Library for filtering files
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.1.6](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.6), 3 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/file-filter](https://github.com/sebastianbergmann/file-filter) ([1.0.0](https://github.com/sebastianbergmann/file-filter/releases/tag/1.0.0), 5 days ago) - Library for filtering files
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.7), 1 week ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.0.2](https://github.com/sebastianbergmann/exporter/releases/tag/8.0.2), 1 week ago) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.3.0](https://github.com/sebastianbergmann/environment/releases/tag/9.3.0), 1 week ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
