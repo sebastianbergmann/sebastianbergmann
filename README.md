@@ -27,9 +27,9 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.1.3](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.3), today) - Provides the functionality to compare PHP values for equality.
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.4), today) - Provides the functionality to compare PHP values for equality.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.10](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.10), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([8.3.0](https://github.com/sebastianbergmann/diff/releases/tag/8.3.0), today) - Diff implementation
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.9](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.9), 2 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.1.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.8), 6 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/file-filter](https://github.com/sebastianbergmann/file-filter) ([1.0.0](https://github.com/sebastianbergmann/file-filter/releases/tag/1.0.0), 3 weeks ago) - Library for filtering files
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.0.2](https://github.com/sebastianbergmann/exporter/releases/tag/8.0.2), 1 month ago) - Provides the functionality to export PHP variables for visualization
