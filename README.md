@@ -27,10 +27,10 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.1.9](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.9), today) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.4), 1 day ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.10](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.10), 1 day ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([8.3.0](https://github.com/sebastianbergmann/diff/releases/tag/8.3.0), 1 day ago) - Diff implementation
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.1.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.8), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/file-filter](https://github.com/sebastianbergmann/file-filter) ([1.0.0](https://github.com/sebastianbergmann/file-filter/releases/tag/1.0.0), 3 weeks ago) - Library for filtering files
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.0.2](https://github.com/sebastianbergmann/exporter/releases/tag/8.0.2), 1 month ago) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.3.0](https://github.com/sebastianbergmann/environment/releases/tag/9.3.0), 1 month ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
