@@ -12,21 +12,22 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
-- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (1 day ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 day ago)
-- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
-- [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (1 day ago)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (1 day ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 day ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 day ago)
+- [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) - Library for counting the lines of code in PHP source code (today)
+- [sebastianbergmann/git-state](https://github.com/sebastianbergmann/git-state) - Library for describing the state of a Git checkout. (today)
+- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) - A simple template engine. (today)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (today)
+- [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) - Invoke PHP callables with a timeout (today)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (today)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (today)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (today)
+- [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) - Traverses array structures and object graphs to enumerate all referenced objects (today)
+- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (today)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.0.3](https://github.com/sebastianbergmann/exporter/releases/tag/8.0.3), today) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) ([5.0.1](https://github.com/sebastianbergmann/lines-of-code/releases/tag/5.0.1), 1 day ago) - Library for counting the lines of code in PHP source code
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) ([4.2.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.1), 3 days ago) - Library for parsing CLI options
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.1.9](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.9), 4 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
@@ -34,7 +35,6 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.10](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.10), 5 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([8.3.0](https://github.com/sebastianbergmann/diff/releases/tag/8.3.0), 5 days ago) - Diff implementation
 - [sebastianbergmann/file-filter](https://github.com/sebastianbergmann/file-filter) ([1.0.0](https://github.com/sebastianbergmann/file-filter/releases/tag/1.0.0), 4 weeks ago) - Library for filtering files
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.0.2](https://github.com/sebastianbergmann/exporter/releases/tag/8.0.2), 1 month ago) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.3.0](https://github.com/sebastianbergmann/environment/releases/tag/9.3.0), 1 month ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 - [signalkraft/mypyllant-component](https://github.com/signalkraft/mypyllant-component) ([v0.9.13](https://github.com/signalkraft/mypyllant-component/releases/tag/v0.9.13), 1 month ago) - Home Assistant component for the myVAILLANT API, controls Vaillant devices such as aroTHERM heatpumps and ecoTEC boilers
 
