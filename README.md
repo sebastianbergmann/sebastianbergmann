@@ -12,29 +12,29 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) - Allows reflection of object attributes, including inherited and non-public ones (today)
-- [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (today)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 day ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 day ago)
-- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects (2 days ago)
-- [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) - Traverses array structures and object graphs to enumerate all referenced objects (2 days ago)
-- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) - A simple template engine. (2 days ago)
-- [sebastianbergmann/git-state](https://github.com/sebastianbergmann/git-state) - Library for describing the state of a Git checkout. (2 days ago)
+- [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) - Allows reflection of object attributes, including inherited and non-public ones (1 day ago)
+- [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (1 day ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (2 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 days ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (2 days ago)
+- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects (3 days ago)
+- [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) - Traverses array structures and object graphs to enumerate all referenced objects (3 days ago)
+- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) - A simple template engine. (3 days ago)
+- [sebastianbergmann/git-state](https://github.com/sebastianbergmann/git-state) - Library for describing the state of a Git checkout. (3 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.11](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.11), 1 day ago) - The PHP Unit Testing framework.
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.1.0](https://github.com/sebastianbergmann/exporter/releases/tag/8.1.0), 1 day ago) - Provides the functionality to export PHP variables for visualization
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.3.1](https://github.com/sebastianbergmann/environment/releases/tag/9.3.1), 1 day ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.2.1), 1 day ago) - Provides the functionality to compare PHP values for equality.
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([7.0.1](https://github.com/sebastianbergmann/type/releases/tag/7.0.1), 2 days ago) - Collection of value objects that represent the types of the PHP type system
-- [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) ([5.0.1](https://github.com/sebastianbergmann/lines-of-code/releases/tag/5.0.1), 3 days ago) - Library for counting the lines of code in PHP source code
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) ([4.2.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.1), 5 days ago) - Library for parsing CLI options
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.1.9](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.9), 6 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.11](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.11), 2 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.1.0](https://github.com/sebastianbergmann/exporter/releases/tag/8.1.0), 2 days ago) - Provides the functionality to export PHP variables for visualization
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.3.1](https://github.com/sebastianbergmann/environment/releases/tag/9.3.1), 2 days ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.2.1), 2 days ago) - Provides the functionality to compare PHP values for equality.
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([7.0.1](https://github.com/sebastianbergmann/type/releases/tag/7.0.1), 3 days ago) - Collection of value objects that represent the types of the PHP type system
+- [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) ([5.0.1](https://github.com/sebastianbergmann/lines-of-code/releases/tag/5.0.1), 4 days ago) - Library for counting the lines of code in PHP source code
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) ([4.2.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.1), 6 days ago) - Library for parsing CLI options
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.1.9](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.9), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([8.3.0](https://github.com/sebastianbergmann/diff/releases/tag/8.3.0), 1 week ago) - Diff implementation
 - [sebastianbergmann/file-filter](https://github.com/sebastianbergmann/file-filter) ([1.0.0](https://github.com/sebastianbergmann/file-filter/releases/tag/1.0.0), 1 month ago) - Library for filtering files
 
