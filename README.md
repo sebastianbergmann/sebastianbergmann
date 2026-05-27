@@ -27,7 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.12](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.12), 2 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.13](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.13), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.3.2](https://github.com/sebastianbergmann/environment/releases/tag/9.3.2), 2 days ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.1.0](https://github.com/sebastianbergmann/exporter/releases/tag/8.1.0), 6 days ago) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.2.1), 6 days ago) - Provides the functionality to compare PHP values for equality.
