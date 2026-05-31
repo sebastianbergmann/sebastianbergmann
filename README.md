@@ -18,10 +18,10 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (2 days ago)
 - [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (4 days ago)
 - [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (4 days ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (4 days ago)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (4 days ago)
-- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (4 days ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (4 days ago)
 - [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (4 days ago)
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (4 days ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (4 days ago)
 
 ---
 
