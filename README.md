@@ -12,21 +12,22 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (today)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
+- [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (2 days ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (3 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (3 days ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (3 days ago)
 - [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (5 days ago)
-- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (5 days ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (5 days ago)
 - [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (5 days ago)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (5 days ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (5 days ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (5 days ago)
+- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.1.10](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.10), today) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.13](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.13), 5 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.3.2](https://github.com/sebastianbergmann/environment/releases/tag/9.3.2), 1 week ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.1.0](https://github.com/sebastianbergmann/exporter/releases/tag/8.1.0), 1 week ago) - Provides the functionality to export PHP variables for visualization
@@ -34,7 +35,6 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([7.0.1](https://github.com/sebastianbergmann/type/releases/tag/7.0.1), 1 week ago) - Collection of value objects that represent the types of the PHP type system
 - [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) ([5.0.1](https://github.com/sebastianbergmann/lines-of-code/releases/tag/5.0.1), 1 week ago) - Library for counting the lines of code in PHP source code
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) ([4.2.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.1), 2 weeks ago) - Library for parsing CLI options
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.1.9](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.9), 2 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([8.3.0](https://github.com/sebastianbergmann/diff/releases/tag/8.3.0), 2 weeks ago) - Diff implementation
 - [php/php-src](https://github.com/php/php-src) ([php-8.5.6](https://github.com/php/php-src/releases/tag/php-8.5.6), 3 weeks ago) - The PHP Interpreter
 
