@@ -27,7 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) ([1.0.0](https://github.com/sebastianbergmann/phpunit-otr-report/releases/tag/1.0.0), today) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit
+- [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) ([1.0.1](https://github.com/sebastianbergmann/phpunit-otr-report/releases/tag/1.0.1), today) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) ([9.0.1](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.1), 1 day ago) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.1.10](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.10), 1 day ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.13](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.13), 6 days ago) - The PHP Unit Testing framework.
