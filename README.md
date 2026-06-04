@@ -27,6 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/php-src](https://github.com/php/php-src) ([php-8.5.7](https://github.com/php/php-src/releases/tag/php-8.5.7), today) - The PHP Interpreter
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.14](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.14), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) ([1.0.1](https://github.com/sebastianbergmann/phpunit-otr-report/releases/tag/1.0.1), 2 days ago) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) ([9.0.1](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.1), 3 days ago) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component
@@ -36,7 +37,6 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.2.1), 2 weeks ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([7.0.1](https://github.com/sebastianbergmann/type/releases/tag/7.0.1), 2 weeks ago) - Collection of value objects that represent the types of the PHP type system
 - [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) ([5.0.1](https://github.com/sebastianbergmann/lines-of-code/releases/tag/5.0.1), 2 weeks ago) - Library for counting the lines of code in PHP source code
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) ([4.2.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.1), 2 weeks ago) - Library for parsing CLI options
 
 ---
 
