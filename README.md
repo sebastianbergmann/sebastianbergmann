@@ -13,12 +13,12 @@ If you find my contributions to the PHP community valuable, I invite you to show
 #### 👷 Check out what I'm currently working on
 
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (today)
 - [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (today)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (today)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 day ago)
 - [phar-io/phar.io](https://github.com/phar-io/phar.io) - Website of the phar.io project (3 days ago)
 - [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit (3 days ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component (4 days ago)
