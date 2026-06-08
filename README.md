@@ -27,7 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.2.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.1), 1 day ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.2.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.2), today) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.0), 3 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.3.0), 3 days ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([9.0.0](https://github.com/sebastianbergmann/diff/releases/tag/9.0.0), 3 days ago) - Diff implementation
