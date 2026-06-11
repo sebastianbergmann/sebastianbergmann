@@ -12,14 +12,14 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 days ago)
-- [thePHPcc/test-driven-security](https://github.com/thePHPcc/test-driven-security) -  (4 days ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (5 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (5 days ago)
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (5 days ago)
-- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (5 days ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (5 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (3 days ago)
+- [thePHPcc/test-driven-security](https://github.com/thePHPcc/test-driven-security) -  (5 days ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (6 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (6 days ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (6 days ago)
+- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (6 days ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (6 days ago)
 - [phar-io/phar.io](https://github.com/phar-io/phar.io) - Website of the phar.io project (1 week ago)
 - [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit (1 week ago)
 
@@ -27,15 +27,15 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.2.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.2), 2 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.0), 5 days ago) - The PHP Unit Testing framework.
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.3.0), 5 days ago) - Provides the functionality to compare PHP values for equality.
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([9.0.0](https://github.com/sebastianbergmann/diff/releases/tag/9.0.0), 5 days ago) - Diff implementation
-- [php/php-src](https://github.com/php/php-src) ([php-8.4.22](https://github.com/php/php-src/releases/tag/php-8.4.22), 6 days ago) - The PHP Interpreter
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.2.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.2), 3 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.0), 6 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.3.0), 6 days ago) - Provides the functionality to compare PHP values for equality.
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([9.0.0](https://github.com/sebastianbergmann/diff/releases/tag/9.0.0), 6 days ago) - Diff implementation
+- [php/php-src](https://github.com/php/php-src) ([php-8.4.22](https://github.com/php/php-src/releases/tag/php-8.4.22), 1 week ago) - The PHP Interpreter
 - [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) ([1.0.1](https://github.com/sebastianbergmann/phpunit-otr-report/releases/tag/1.0.1), 1 week ago) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) ([9.0.1](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.1), 1 week ago) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.3.2](https://github.com/sebastianbergmann/environment/releases/tag/9.3.2), 2 weeks ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.1.0](https://github.com/sebastianbergmann/exporter/releases/tag/8.1.0), 2 weeks ago) - Provides the functionality to export PHP variables for visualization
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.1.0](https://github.com/sebastianbergmann/exporter/releases/tag/8.1.0), 3 weeks ago) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([7.0.1](https://github.com/sebastianbergmann/type/releases/tag/7.0.1), 3 weeks ago) - Collection of value objects that represent the types of the PHP type system
 
 ---
