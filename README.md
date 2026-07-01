@@ -27,8 +27,8 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [signalkraft/mypyllant-component](https://github.com/signalkraft/mypyllant-component) ([v0.9.17](https://github.com/signalkraft/mypyllant-component/releases/tag/v0.9.17), today) - Home Assistant component for the myVAILLANT API, controls Vaillant devices such as aroTHERM heatpumps and ecoTEC boilers
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.2), 2 days ago) - The PHP Unit Testing framework.
-- [signalkraft/mypyllant-component](https://github.com/signalkraft/mypyllant-component) ([v0.9.16](https://github.com/signalkraft/mypyllant-component/releases/tag/v0.9.16), 2 weeks ago) - Home Assistant component for the myVAILLANT API, controls Vaillant devices such as aroTHERM heatpumps and ecoTEC boilers
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.2.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.2), 3 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.3.0), 3 weeks ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([9.0.0](https://github.com/sebastianbergmann/diff/releases/tag/9.0.0), 3 weeks ago) - Diff implementation
