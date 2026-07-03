@@ -12,10 +12,10 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 day ago)
-- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (4 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (2 days ago)
+- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (5 days ago)
 - [thePHPcc/EventFlow](https://github.com/thePHPcc/EventFlow) -  (1 week ago)
 - [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (1 week ago)
 - [sebastianbergmann/file-filter](https://github.com/sebastianbergmann/file-filter) - Library for filtering files (1 week ago)
@@ -27,11 +27,11 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [signalkraft/mypyllant-component](https://github.com/signalkraft/mypyllant-component) ([v0.9.17](https://github.com/signalkraft/mypyllant-component/releases/tag/v0.9.17), 1 day ago) - Home Assistant component for the myVAILLANT API, controls Vaillant devices such as aroTHERM heatpumps and ecoTEC boilers
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.2), 3 days ago) - The PHP Unit Testing framework.
+- [signalkraft/mypyllant-component](https://github.com/signalkraft/mypyllant-component) ([v0.9.17](https://github.com/signalkraft/mypyllant-component/releases/tag/v0.9.17), 2 days ago) - Home Assistant component for the myVAILLANT API, controls Vaillant devices such as aroTHERM heatpumps and ecoTEC boilers
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.2), 4 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.2.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.2), 3 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.3.0), 3 weeks ago) - Provides the functionality to compare PHP values for equality.
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([9.0.0](https://github.com/sebastianbergmann/diff/releases/tag/9.0.0), 3 weeks ago) - Diff implementation
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.3.0), 4 weeks ago) - Provides the functionality to compare PHP values for equality.
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([9.0.0](https://github.com/sebastianbergmann/diff/releases/tag/9.0.0), 4 weeks ago) - Diff implementation
 - [php/php-src](https://github.com/php/php-src) ([php-8.4.22](https://github.com/php/php-src/releases/tag/php-8.4.22), 4 weeks ago) - The PHP Interpreter
 - [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) ([1.0.1](https://github.com/sebastianbergmann/phpunit-otr-report/releases/tag/1.0.1), 1 month ago) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) ([9.0.1](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.1), 1 month ago) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component
