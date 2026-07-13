@@ -12,11 +12,11 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) - Library for working with version requirements (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (2 days ago)
-- [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) - Library for counting the lines of code in PHP source code (3 days ago)
+- [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) - Library for working with version requirements (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (2 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (3 days ago)
+- [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) - Library for counting the lines of code in PHP source code (4 days ago)
 - [thePHPcc/EventFlow](https://github.com/thePHPcc/EventFlow) -  (1 week ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 week ago)
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (2 weeks ago)
@@ -27,9 +27,9 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) ([5.0.2](https://github.com/sebastianbergmann/lines-of-code/releases/tag/5.0.2), 3 days ago) - Library for counting the lines of code in PHP source code
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4), 4 days ago) - The PHP Unit Testing framework.
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.2.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.3), 6 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) ([5.0.2](https://github.com/sebastianbergmann/lines-of-code/releases/tag/5.0.2), 4 days ago) - Library for counting the lines of code in PHP source code
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4), 5 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.2.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.3), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [php/php-src](https://github.com/php/php-src) ([php-8.3.32](https://github.com/php/php-src/releases/tag/php-8.3.32), 1 week ago) - The PHP Interpreter
 - [signalkraft/mypyllant-component](https://github.com/signalkraft/mypyllant-component) ([v0.9.17](https://github.com/signalkraft/mypyllant-component/releases/tag/v0.9.17), 1 week ago) - Home Assistant component for the myVAILLANT API, controls Vaillant devices such as aroTHERM heatpumps and ecoTEC boilers
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.3.0), 1 month ago) - Provides the functionality to compare PHP values for equality.
