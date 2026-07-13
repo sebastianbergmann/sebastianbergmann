@@ -12,21 +12,22 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (today)
 - [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) - Library for working with version requirements (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (3 days ago)
 - [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) - Library for counting the lines of code in PHP source code (4 days ago)
 - [thePHPcc/EventFlow](https://github.com/thePHPcc/EventFlow) -  (1 week ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 week ago)
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (2 weeks ago)
-- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (3 weeks ago)
-- [sebastianbergmann/file-filter](https://github.com/sebastianbergmann/file-filter) - Library for filtering files (3 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.1.1](https://github.com/sebastianbergmann/exporter/releases/tag/8.1.1), today) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) ([5.0.2](https://github.com/sebastianbergmann/lines-of-code/releases/tag/5.0.2), 4 days ago) - Library for counting the lines of code in PHP source code
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4), 5 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.2.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.3), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
@@ -36,7 +37,6 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([9.0.0](https://github.com/sebastianbergmann/diff/releases/tag/9.0.0), 1 month ago) - Diff implementation
 - [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) ([1.0.1](https://github.com/sebastianbergmann/phpunit-otr-report/releases/tag/1.0.1), 1 month ago) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) ([9.0.1](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.1), 1 month ago) - Snapshotting of global state, factored out of PHPUnit into a stand-alone component
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.3.2](https://github.com/sebastianbergmann/environment/releases/tag/9.3.2), 1 month ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 
 ---
 
