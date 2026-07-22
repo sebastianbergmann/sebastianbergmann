@@ -27,7 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [signalkraft/mypyllant-component](https://github.com/signalkraft/mypyllant-component) ([v0.9.18](https://github.com/signalkraft/mypyllant-component/releases/tag/v0.9.18), 3 days ago) - Home Assistant component for the myVAILLANT API, controls Vaillant devices such as aroTHERM heatpumps and ecoTEC boilers
+- [signalkraft/mypyllant-component](https://github.com/signalkraft/mypyllant-component) ([v0.9.19](https://github.com/signalkraft/mypyllant-component/releases/tag/v0.9.19), today) - Home Assistant component for the myVAILLANT API, controls Vaillant devices such as aroTHERM heatpumps and ecoTEC boilers
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.1.1](https://github.com/sebastianbergmann/exporter/releases/tag/8.1.1), 1 week ago) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) ([5.0.2](https://github.com/sebastianbergmann/lines-of-code/releases/tag/5.0.2), 1 week ago) - Library for counting the lines of code in PHP source code
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4), 2 weeks ago) - The PHP Unit Testing framework.
