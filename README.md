@@ -27,8 +27,8 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/php-src](https://github.com/php/php-src) ([php-8.4.24](https://github.com/php/php-src/releases/tag/php-8.4.24), today) - The PHP Interpreter
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.2.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.4), today) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
-- [php/php-src](https://github.com/php/php-src) ([php-8.5.9](https://github.com/php/php-src/releases/tag/php-8.5.9), today) - The PHP Interpreter
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.6), 2 days ago) - The PHP Unit Testing framework.
 - [signalkraft/mypyllant-component](https://github.com/signalkraft/mypyllant-component) ([v0.9.19](https://github.com/signalkraft/mypyllant-component/releases/tag/v0.9.19), 1 week ago) - Home Assistant component for the myVAILLANT API, controls Vaillant devices such as aroTHERM heatpumps and ecoTEC boilers
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.1.1](https://github.com/sebastianbergmann/exporter/releases/tag/8.1.1), 2 weeks ago) - Provides the functionality to export PHP variables for visualization
