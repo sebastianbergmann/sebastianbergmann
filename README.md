@@ -12,14 +12,14 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (1 day ago)
-- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (2 days ago)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (3 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (3 days ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (3 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (4 days ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (2 days ago)
+- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (3 days ago)
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (4 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (4 days ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (4 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (5 days ago)
 - [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) - Library for working with version requirements (3 weeks ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (3 weeks ago)
 
@@ -27,12 +27,12 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([8.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/8.0.1), 1 day ago) - Provides functionality to recursively process PHP variables
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) ([5.0.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/5.0.1), 3 days ago) - Library for parsing CLI options
-- [php/php-src](https://github.com/php/php-src) ([php-8.4.24](https://github.com/php/php-src/releases/tag/php-8.4.24), 5 days ago) - The PHP Interpreter
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.2.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.4), 5 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([8.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/8.0.1), 2 days ago) - Provides functionality to recursively process PHP variables
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) ([5.0.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/5.0.1), 4 days ago) - Library for parsing CLI options
+- [php/php-src](https://github.com/php/php-src) ([php-8.4.24](https://github.com/php/php-src/releases/tag/php-8.4.24), 6 days ago) - The PHP Interpreter
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.2.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.4), 6 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.6), 1 week ago) - The PHP Unit Testing framework.
-- [signalkraft/mypyllant-component](https://github.com/signalkraft/mypyllant-component) ([v0.9.19](https://github.com/signalkraft/mypyllant-component/releases/tag/v0.9.19), 1 week ago) - Home Assistant component for the myVAILLANT API, controls Vaillant devices such as aroTHERM heatpumps and ecoTEC boilers
+- [signalkraft/mypyllant-component](https://github.com/signalkraft/mypyllant-component) ([v0.9.19](https://github.com/signalkraft/mypyllant-component/releases/tag/v0.9.19), 2 weeks ago) - Home Assistant component for the myVAILLANT API, controls Vaillant devices such as aroTHERM heatpumps and ecoTEC boilers
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.1.1](https://github.com/sebastianbergmann/exporter/releases/tag/8.1.1), 3 weeks ago) - Provides the functionality to export PHP variables for visualization
 - [sebastianbergmann/lines-of-code](https://github.com/sebastianbergmann/lines-of-code) ([5.0.2](https://github.com/sebastianbergmann/lines-of-code/releases/tag/5.0.2), 3 weeks ago) - Library for counting the lines of code in PHP source code
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.3.0), 2 months ago) - Provides the functionality to compare PHP values for equality.
