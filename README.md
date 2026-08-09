@@ -12,26 +12,26 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (today)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 day ago)
-- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (1 day ago)
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (3 days ago)
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (5 days ago)
-- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (6 days ago)
+- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 day ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (2 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (2 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (2 days ago)
+- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (2 days ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 days ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (4 days ago)
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (6 days ago)
+- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.0), 1 day ago) - The PHP Unit Testing framework.
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.3.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.0), 1 day ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.4.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.4.0), 1 day ago) - Provides the functionality to compare PHP values for equality.
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.2.1](https://github.com/sebastianbergmann/exporter/releases/tag/8.2.1), 1 day ago) - Provides the functionality to export PHP variables for visualization
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([8.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/8.0.1), 5 days ago) - Provides functionality to recursively process PHP variables
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.0), 2 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.3.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.0), 2 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.4.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.4.0), 2 days ago) - Provides the functionality to compare PHP values for equality.
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.2.1](https://github.com/sebastianbergmann/exporter/releases/tag/8.2.1), 2 days ago) - Provides the functionality to export PHP variables for visualization
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([8.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/8.0.1), 6 days ago) - Provides functionality to recursively process PHP variables
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) ([5.0.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/5.0.1), 1 week ago) - Library for parsing CLI options
 - [php/php-src](https://github.com/php/php-src) ([php-8.4.24](https://github.com/php/php-src/releases/tag/php-8.4.24), 1 week ago) - The PHP Interpreter
 - [signalkraft/mypyllant-component](https://github.com/signalkraft/mypyllant-component) ([v0.9.19](https://github.com/signalkraft/mypyllant-component/releases/tag/v0.9.19), 2 weeks ago) - Home Assistant component for the myVAILLANT API, controls Vaillant devices such as aroTHERM heatpumps and ecoTEC boilers
