@@ -27,13 +27,13 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([9.6.36](https://github.com/sebastianbergmann/phpunit/releases/tag/9.6.36), today) - The PHP Unit Testing framework.
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([5.0.2](https://github.com/sebastianbergmann/recursion-context/releases/tag/5.0.2), today) - Provides functionality to recursively process PHP variables
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([7.0.2](https://github.com/sebastianbergmann/type/releases/tag/7.0.2), 1 day ago) - Collection of value objects that represent the types of the PHP type system
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([7.0.1](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/7.0.1), 1 day ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.0), 4 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.3.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.0), 4 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.4.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.4.0), 4 days ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.2.1](https://github.com/sebastianbergmann/exporter/releases/tag/8.2.1), 4 days ago) - Provides the functionality to export PHP variables for visualization
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([8.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/8.0.1), 1 week ago) - Provides functionality to recursively process PHP variables
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) ([5.0.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/5.0.1), 1 week ago) - Library for parsing CLI options
 - [php/php-src](https://github.com/php/php-src) ([php-8.4.24](https://github.com/php/php-src/releases/tag/php-8.4.24), 1 week ago) - The PHP Interpreter
 - [signalkraft/mypyllant-component](https://github.com/signalkraft/mypyllant-component) ([v0.9.19](https://github.com/signalkraft/mypyllant-component/releases/tag/v0.9.19), 2 weeks ago) - Home Assistant component for the myVAILLANT API, controls Vaillant devices such as aroTHERM heatpumps and ecoTEC boilers
