@@ -12,21 +12,22 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation) -  (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
+- [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation) -  (today)
+- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (2 days ago)
-- [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) - Allows reflection of object attributes, including inherited and non-public ones (6 days ago)
 - [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) - Traverses array structures and object graphs to enumerate all referenced objects (6 days ago)
-- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (1 week ago)
-- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (1 week ago)
-- [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit (1 week ago)
-- [sebastianbergmann/git-state](https://github.com/sebastianbergmann/git-state) - Library for describing the state of a Git checkout. (1 week ago)
+- [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) - Allows reflection of object attributes, including inherited and non-public ones (6 days ago)
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria. (1 week ago)
+- [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system (1 week ago)
+- [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit (1 week ago)
+- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) ([0.35.2](https://github.com/infection/infection/releases/tag/0.35.2), today) - PHP Mutation Testing library
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.3.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.1), 3 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.1), 6 days ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) ([8.1.0](https://github.com/sebastianbergmann/object-enumerator/releases/tag/8.1.0), 6 days ago) - Traverses array structures and object graphs to enumerate all referenced objects
@@ -36,7 +37,6 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([7.0.1](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/7.0.1), 1 week ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) ([8.4.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.4.0), 1 week ago) - Provides the functionality to compare PHP values for equality.
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) ([8.2.1](https://github.com/sebastianbergmann/exporter/releases/tag/8.2.1), 1 week ago) - Provides the functionality to export PHP variables for visualization
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) ([5.0.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/5.0.1), 2 weeks ago) - Library for parsing CLI options
 
 ---
 
