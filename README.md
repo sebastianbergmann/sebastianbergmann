@@ -27,7 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([7.0.1](https://github.com/sebastianbergmann/diff/releases/tag/7.0.1), today) - Diff implementation
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([9.0.1](https://github.com/sebastianbergmann/diff/releases/tag/9.0.1), today) - Diff implementation
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([7.0.2](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/7.0.2), today) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
 - [infection/infection](https://github.com/infection/infection) ([0.35.2](https://github.com/infection/infection/releases/tag/0.35.2), 6 days ago) - PHP Mutation Testing library
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.3.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.1), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
