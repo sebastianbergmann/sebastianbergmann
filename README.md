@@ -27,10 +27,10 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) ([0.35.3](https://github.com/infection/infection/releases/tag/0.35.3), today) - PHP Mutation Testing library
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.2), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([9.0.1](https://github.com/sebastianbergmann/diff/releases/tag/9.0.1), 2 days ago) - Diff implementation
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([7.0.2](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/7.0.2), 2 days ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
-- [infection/infection](https://github.com/infection/infection) ([0.35.2](https://github.com/infection/infection/releases/tag/0.35.2), 1 week ago) - PHP Mutation Testing library
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.3.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.1), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) ([8.1.0](https://github.com/sebastianbergmann/object-enumerator/releases/tag/8.1.0), 2 weeks ago) - Traverses array structures and object graphs to enumerate all referenced objects
 - [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) ([6.1.0](https://github.com/sebastianbergmann/object-reflector/releases/tag/6.1.0), 2 weeks ago) - Allows reflection of object attributes, including inherited and non-public ones
