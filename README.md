@@ -12,12 +12,12 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (today)
-- [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation) -  (2 days ago)
-- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (2 days ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 day ago)
+- [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation) -  (3 days ago)
+- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (3 days ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (4 days ago)
 - [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (1 week ago)
 - [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit (1 week ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (1 week ago)
@@ -27,8 +27,8 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.2), today) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
-- [infection/infection](https://github.com/infection/infection) ([0.35.4](https://github.com/infection/infection/releases/tag/0.35.4), 2 days ago) - PHP Mutation Testing library
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.2), 1 day ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [infection/infection](https://github.com/infection/infection) ([0.35.4](https://github.com/infection/infection/releases/tag/0.35.4), 3 days ago) - PHP Mutation Testing library
 - [php/php-src](https://github.com/php/php-src) ([php-8.5.10](https://github.com/php/php-src/releases/tag/php-8.5.10), 1 week ago) - The PHP Interpreter
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.2), 1 week ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([9.0.1](https://github.com/sebastianbergmann/diff/releases/tag/9.0.1), 1 week ago) - Diff implementation
