@@ -12,11 +12,11 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (4 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP (6 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 days ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (5 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP (1 week ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 week ago)
 - [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation) -  (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (1 week ago)
@@ -27,14 +27,14 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.3.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.3), 1 day ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.3), 2 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.3.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.3), 2 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.3), 3 days ago) - The PHP Unit Testing framework.
 - [infection/infection](https://github.com/infection/infection) ([0.35.4](https://github.com/infection/infection/releases/tag/0.35.4), 1 week ago) - PHP Mutation Testing library
 - [php/php-src](https://github.com/php/php-src) ([php-8.5.10](https://github.com/php/php-src/releases/tag/php-8.5.10), 2 weeks ago) - The PHP Interpreter
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([9.0.1](https://github.com/sebastianbergmann/diff/releases/tag/9.0.1), 2 weeks ago) - Diff implementation
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([7.0.2](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/7.0.2), 2 weeks ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
-- [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) ([8.1.0](https://github.com/sebastianbergmann/object-enumerator/releases/tag/8.1.0), 4 weeks ago) - Traverses array structures and object graphs to enumerate all referenced objects
-- [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) ([6.1.0](https://github.com/sebastianbergmann/object-reflector/releases/tag/6.1.0), 4 weeks ago) - Allows reflection of object attributes, including inherited and non-public ones
+- [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) ([8.1.0](https://github.com/sebastianbergmann/object-enumerator/releases/tag/8.1.0), 1 month ago) - Traverses array structures and object graphs to enumerate all referenced objects
+- [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) ([6.1.0](https://github.com/sebastianbergmann/object-reflector/releases/tag/6.1.0), 1 month ago) - Allows reflection of object attributes, including inherited and non-public ones
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([5.0.2](https://github.com/sebastianbergmann/recursion-context/releases/tag/5.0.2), 1 month ago) - Provides functionality to recursively process PHP variables
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) ([7.0.2](https://github.com/sebastianbergmann/type/releases/tag/7.0.2), 1 month ago) - Collection of value objects that represent the types of the PHP type system
 
