@@ -21,7 +21,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation) -  (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (1 week ago)
 - [sebastianbergmann/complexity](https://github.com/sebastianbergmann/complexity) - Library for calculating the complexity of PHP code units (2 weeks ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (2 weeks ago)
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (2 weeks ago)
 
 ---
 
