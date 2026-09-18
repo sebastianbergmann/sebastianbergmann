@@ -12,26 +12,26 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 days ago)
-- [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) - Library for working with version requirements (3 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (3 days ago)
-- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (3 days ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (3 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (3 days ago)
-- [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit (3 days ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (3 days ago)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (3 days ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (3 days ago)
+- [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) - Library for working with version requirements (4 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (4 days ago)
+- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (4 days ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (4 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (4 days ago)
+- [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit (4 days ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (4 days ago)
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.4), 2 days ago) - The PHP Unit Testing framework.
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v5.9.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.9.0), 4 days ago) - A PHP parser written in PHP
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.4), 3 days ago) - The PHP Unit Testing framework.
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v5.9.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.9.0), 5 days ago) - A PHP parser written in PHP
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.3.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.3), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [infection/infection](https://github.com/infection/infection) ([0.35.4](https://github.com/infection/infection/releases/tag/0.35.4), 2 weeks ago) - PHP Mutation Testing library
-- [php/php-src](https://github.com/php/php-src) ([php-8.5.10](https://github.com/php/php-src/releases/tag/php-8.5.10), 2 weeks ago) - The PHP Interpreter
+- [php/php-src](https://github.com/php/php-src) ([php-8.5.10](https://github.com/php/php-src/releases/tag/php-8.5.10), 3 weeks ago) - The PHP Interpreter
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([9.0.1](https://github.com/sebastianbergmann/diff/releases/tag/9.0.1), 3 weeks ago) - Diff implementation
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([7.0.2](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/7.0.2), 3 weeks ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
 - [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) ([8.1.0](https://github.com/sebastianbergmann/object-enumerator/releases/tag/8.1.0), 1 month ago) - Traverses array structures and object graphs to enumerate all referenced objects
