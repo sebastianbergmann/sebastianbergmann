@@ -27,7 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.4), 1 week ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([10.5.65](https://github.com/sebastianbergmann/phpunit/releases/tag/10.5.65), today) - The PHP Unit Testing framework.
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v5.9.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.9.0), 1 week ago) - A PHP parser written in PHP
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.3.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.3), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [infection/infection](https://github.com/infection/infection) ([0.35.4](https://github.com/infection/infection/releases/tag/0.35.4), 3 weeks ago) - PHP Mutation Testing library
