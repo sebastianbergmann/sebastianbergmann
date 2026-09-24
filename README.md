@@ -27,11 +27,11 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/php-src](https://github.com/php/php-src) ([php-8.5.11](https://github.com/php/php-src/releases/tag/php-8.5.11), today) - The PHP Interpreter
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([10.5.65](https://github.com/sebastianbergmann/phpunit/releases/tag/10.5.65), 1 day ago) - The PHP Unit Testing framework.
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v5.9.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.9.0), 1 week ago) - A PHP parser written in PHP
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.3.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.3), 2 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [infection/infection](https://github.com/infection/infection) ([0.35.4](https://github.com/infection/infection/releases/tag/0.35.4), 3 weeks ago) - PHP Mutation Testing library
-- [php/php-src](https://github.com/php/php-src) ([php-8.5.10](https://github.com/php/php-src/releases/tag/php-8.5.10), 3 weeks ago) - The PHP Interpreter
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([9.0.1](https://github.com/sebastianbergmann/diff/releases/tag/9.0.1), 1 month ago) - Diff implementation
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([7.0.2](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/7.0.2), 1 month ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
 - [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) ([8.1.0](https://github.com/sebastianbergmann/object-enumerator/releases/tag/8.1.0), 1 month ago) - Traverses array structures and object graphs to enumerate all referenced objects
