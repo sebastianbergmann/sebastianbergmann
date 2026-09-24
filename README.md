@@ -27,7 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/php-src](https://github.com/php/php-src) ([php-8.5.11](https://github.com/php/php-src/releases/tag/php-8.5.11), today) - The PHP Interpreter
+- [php/php-src](https://github.com/php/php-src) ([php-8.4.26](https://github.com/php/php-src/releases/tag/php-8.4.26), today) - The PHP Interpreter
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([10.5.65](https://github.com/sebastianbergmann/phpunit/releases/tag/10.5.65), 1 day ago) - The PHP Unit Testing framework.
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v5.9.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.9.0), 1 week ago) - A PHP parser written in PHP
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.3.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.3), 2 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
