@@ -27,16 +27,16 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.4.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.4.0), today) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [giorgiosironi/eris](https://github.com/giorgiosironi/eris) ([1.2.0](https://github.com/giorgiosironi/eris/releases/tag/1.2.0), today) - Eris is a porting of Quickcheck and property-based testing tools to the PHP and PHPUnit ecosystem.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.6), 1 day ago) - The PHP Unit Testing framework.
 - [infection/infection](https://github.com/infection/infection) ([0.35.5](https://github.com/infection/infection/releases/tag/0.35.5), 3 days ago) - PHP Mutation Testing library
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.3.5](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.5), 5 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [php/php-src](https://github.com/php/php-src) ([php-8.4.26](https://github.com/php/php-src/releases/tag/php-8.4.26), 6 days ago) - The PHP Interpreter
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v5.9.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.9.0), 2 weeks ago) - A PHP parser written in PHP
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([9.0.1](https://github.com/sebastianbergmann/diff/releases/tag/9.0.1), 1 month ago) - Diff implementation
 - [sebastianbergmann/php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) ([7.0.2](https://github.com/sebastianbergmann/php-file-iterator/releases/tag/7.0.2), 1 month ago) - FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.
 - [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) ([8.1.0](https://github.com/sebastianbergmann/object-enumerator/releases/tag/8.1.0), 1 month ago) - Traverses array structures and object graphs to enumerate all referenced objects
 - [sebastianbergmann/object-reflector](https://github.com/sebastianbergmann/object-reflector) ([6.1.0](https://github.com/sebastianbergmann/object-reflector/releases/tag/6.1.0), 1 month ago) - Allows reflection of object attributes, including inherited and non-public ones
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) ([5.0.2](https://github.com/sebastianbergmann/recursion-context/releases/tag/5.0.2), 1 month ago) - Provides functionality to recursively process PHP variables
 
 ---
 
