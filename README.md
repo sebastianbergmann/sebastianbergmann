@@ -12,26 +12,26 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (today)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [giorgiosironi/eris](https://github.com/giorgiosironi/eris) - Eris is a porting of Quickcheck and property-based testing tools to the PHP and PHPUnit ecosystem. (1 day ago)
-- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (3 days ago)
-- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (3 days ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (3 days ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (3 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (3 days ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [giorgiosironi/eris](https://github.com/giorgiosironi/eris) - Eris is a porting of Quickcheck and property-based testing tools to the PHP and PHPUnit ecosystem. (2 days ago)
+- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (4 days ago)
+- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (4 days ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (4 days ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (4 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.3.3](https://github.com/sebastianbergmann/environment/releases/tag/9.3.3), today) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.4.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.4.0), 1 day ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
-- [giorgiosironi/eris](https://github.com/giorgiosironi/eris) ([1.2.0](https://github.com/giorgiosironi/eris/releases/tag/1.2.0), 1 day ago) - Eris is a porting of Quickcheck and property-based testing tools to the PHP and PHPUnit ecosystem.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.6), 2 days ago) - The PHP Unit Testing framework.
-- [infection/infection](https://github.com/infection/infection) ([0.35.5](https://github.com/infection/infection/releases/tag/0.35.5), 4 days ago) - PHP Mutation Testing library
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.3.3](https://github.com/sebastianbergmann/environment/releases/tag/9.3.3), 1 day ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.4.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.4.0), 2 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [giorgiosironi/eris](https://github.com/giorgiosironi/eris) ([1.2.0](https://github.com/giorgiosironi/eris/releases/tag/1.2.0), 2 days ago) - Eris is a porting of Quickcheck and property-based testing tools to the PHP and PHPUnit ecosystem.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.6), 3 days ago) - The PHP Unit Testing framework.
+- [infection/infection](https://github.com/infection/infection) ([0.35.5](https://github.com/infection/infection/releases/tag/0.35.5), 5 days ago) - PHP Mutation Testing library
 - [php/php-src](https://github.com/php/php-src) ([php-8.4.26](https://github.com/php/php-src/releases/tag/php-8.4.26), 1 week ago) - The PHP Interpreter
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v5.9.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.9.0), 2 weeks ago) - A PHP parser written in PHP
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([9.0.1](https://github.com/sebastianbergmann/diff/releases/tag/9.0.1), 1 month ago) - Diff implementation
