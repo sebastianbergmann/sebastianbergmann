@@ -12,30 +12,30 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (today)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation) -  (1 day ago)
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (4 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (4 days ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (4 days ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (4 days ago)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (4 days ago)
+- [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation) -  (2 days ago)
+- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (5 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (5 days ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (5 days ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (5 days ago)
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - Library for parsing CLI options (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [giorgiosironi/eris](https://github.com/giorgiosironi/eris) ([1.2.1](https://github.com/giorgiosironi/eris/releases/tag/1.2.1), today) - Eris is a porting of Quickcheck and property-based testing tools to the PHP and PHPUnit ecosystem.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.1), 5 days ago) - The PHP Unit Testing framework.
-- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([7.0.1](https://github.com/sebastianbergmann/version/releases/tag/7.0.1), 6 days ago) - Library that helps with managing the version number of Git-hosted PHP projects
+- [giorgiosironi/eris](https://github.com/giorgiosironi/eris) ([1.2.1](https://github.com/giorgiosironi/eris/releases/tag/1.2.1), 1 day ago) - Eris is a porting of Quickcheck and property-based testing tools to the PHP and PHPUnit ecosystem.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.1), 6 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([7.0.1](https://github.com/sebastianbergmann/version/releases/tag/7.0.1), 1 week ago) - Library that helps with managing the version number of Git-hosted PHP projects
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.4.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.4.1), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) ([6.0.1](https://github.com/sebastianbergmann/php-text-template/releases/tag/6.0.1), 1 week ago) - A simple template engine.
 - [infection/infection](https://github.com/infection/infection) ([0.35.6](https://github.com/infection/infection/releases/tag/0.35.6), 1 week ago) - PHP Mutation Testing library
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.3.3](https://github.com/sebastianbergmann/environment/releases/tag/9.3.3), 1 week ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 - [php/php-src](https://github.com/php/php-src) ([php-8.4.26](https://github.com/php/php-src/releases/tag/php-8.4.26), 2 weeks ago) - The PHP Interpreter
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v5.9.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.9.0), 3 weeks ago) - A PHP parser written in PHP
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v5.9.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.9.0), 4 weeks ago) - A PHP parser written in PHP
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) ([9.0.1](https://github.com/sebastianbergmann/diff/releases/tag/9.0.1), 1 month ago) - Diff implementation
 
 ---
