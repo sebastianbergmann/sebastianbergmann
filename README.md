@@ -27,8 +27,8 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.2), today) - The PHP Unit Testing framework.
 - [giorgiosironi/eris](https://github.com/giorgiosironi/eris) ([1.2.1](https://github.com/giorgiosironi/eris/releases/tag/1.2.1), 2 days ago) - Eris is a porting of Quickcheck and property-based testing tools to the PHP and PHPUnit ecosystem.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.1), 1 week ago) - The PHP Unit Testing framework.
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([7.0.1](https://github.com/sebastianbergmann/version/releases/tag/7.0.1), 1 week ago) - Library that helps with managing the version number of Git-hosted PHP projects
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.4.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.4.1), 1 week ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) ([6.0.1](https://github.com/sebastianbergmann/php-text-template/releases/tag/6.0.1), 1 week ago) - A simple template engine.
