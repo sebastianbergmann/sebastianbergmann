@@ -12,24 +12,24 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (3 days ago)
-- [spriebsch/domain-event](https://github.com/spriebsch/domain-event) - A solid and easy to use way to work with Domain Events. (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (4 days ago)
+- [spriebsch/domain-event](https://github.com/spriebsch/domain-event) - A solid and easy to use way to work with Domain Events. (4 days ago)
 - [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 week ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 week ago)
 - [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation) -  (1 week ago)
-- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (1 week ago)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (1 week ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 week ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 week ago)
+- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (2 weeks ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (2 weeks ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (2 weeks ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (2 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3), 3 days ago) - The PHP Unit Testing framework.
-- [giorgiosironi/eris](https://github.com/giorgiosironi/eris) ([1.3.0](https://github.com/giorgiosironi/eris/releases/tag/1.3.0), 3 days ago) - Eris is a porting of Quickcheck and property-based testing tools to the PHP and PHPUnit ecosystem.
-- [infection/infection](https://github.com/infection/infection) ([0.35.8](https://github.com/infection/infection/releases/tag/0.35.8), 5 days ago) - PHP Mutation Testing library
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3), 4 days ago) - The PHP Unit Testing framework.
+- [giorgiosironi/eris](https://github.com/giorgiosironi/eris) ([1.3.0](https://github.com/giorgiosironi/eris/releases/tag/1.3.0), 4 days ago) - Eris is a porting of Quickcheck and property-based testing tools to the PHP and PHPUnit ecosystem.
+- [infection/infection](https://github.com/infection/infection) ([0.35.8](https://github.com/infection/infection/releases/tag/0.35.8), 6 days ago) - PHP Mutation Testing library
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([7.0.1](https://github.com/sebastianbergmann/version/releases/tag/7.0.1), 2 weeks ago) - Library that helps with managing the version number of Git-hosted PHP projects
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.4.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.4.1), 2 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) ([6.0.1](https://github.com/sebastianbergmann/php-text-template/releases/tag/6.0.1), 2 weeks ago) - A simple template engine.
