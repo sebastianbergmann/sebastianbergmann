@@ -27,6 +27,7 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/php-src](https://github.com/php/php-src) ([php-8.5.12](https://github.com/php/php-src/releases/tag/php-8.5.12), today) - The PHP Interpreter
 - [sebastianbergmann/git-state](https://github.com/sebastianbergmann/git-state) ([1.1.0](https://github.com/sebastianbergmann/git-state/releases/tag/1.1.0), today) - Library for describing the state of a Git checkout.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3), 5 days ago) - The PHP Unit Testing framework.
 - [giorgiosironi/eris](https://github.com/giorgiosironi/eris) ([1.3.0](https://github.com/giorgiosironi/eris/releases/tag/1.3.0), 5 days ago) - Eris is a porting of Quickcheck and property-based testing tools to the PHP and PHPUnit ecosystem.
@@ -35,7 +36,6 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.4.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.4.1), 2 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) ([6.0.1](https://github.com/sebastianbergmann/php-text-template/releases/tag/6.0.1), 2 weeks ago) - A simple template engine.
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.3.3](https://github.com/sebastianbergmann/environment/releases/tag/9.3.3), 2 weeks ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
-- [php/php-src](https://github.com/php/php-src) ([php-8.4.26](https://github.com/php/php-src/releases/tag/php-8.4.26), 3 weeks ago) - The PHP Interpreter
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) ([v5.9.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.9.0), 1 month ago) - A PHP parser written in PHP
 
 ---
