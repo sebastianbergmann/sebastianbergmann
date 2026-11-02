@@ -13,30 +13,30 @@ If you find my contributions to the PHP community valuable, I invite you to show
 #### 👷 Check out what I'm currently working on
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
+- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (today)
+- [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit (today)
 - [sebastianbergmann/choice-sequence](https://github.com/sebastianbergmann/choice-sequence) - Library for drawing, replaying, shrinking, and storing choice sequences (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (3 days ago)
-- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (3 days ago)
 - [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) - Library for working with version requirements (3 days ago)
+- [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (3 days ago)
 - [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories (3 days ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (6 days ago)
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 week ago)
-- [sebastianbergmann/git-state](https://github.com/sebastianbergmann/git-state) - Library for describing the state of a Git checkout. (1 week ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - Provides the functionality to export PHP variables for visualization (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) ([0.35.9](https://github.com/infection/infection/releases/tag/0.35.9), today) - PHP Mutation Testing library
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.5.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.5.1), today) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
+- [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) ([1.0.2](https://github.com/sebastianbergmann/phpunit-otr-report/releases/tag/1.0.2), today) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.6), today) - The PHP Unit Testing framework.
 - [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) ([1.0.0](https://github.com/sebastianbergmann/version-requirement/releases/tag/1.0.0), 3 days ago) - Library for working with version requirements
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.5.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.5.0), 3 days ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [php/php-src](https://github.com/php/php-src) ([php-8.5.12](https://github.com/php/php-src/releases/tag/php-8.5.12), 1 week ago) - The PHP Interpreter
 - [sebastianbergmann/git-state](https://github.com/sebastianbergmann/git-state) ([1.1.0](https://github.com/sebastianbergmann/git-state/releases/tag/1.1.0), 1 week ago) - Library for describing the state of a Git checkout.
 - [giorgiosironi/eris](https://github.com/giorgiosironi/eris) ([1.3.0](https://github.com/giorgiosironi/eris/releases/tag/1.3.0), 2 weeks ago) - Eris is a porting of Quickcheck and property-based testing tools to the PHP and PHPUnit ecosystem.
-- [infection/infection](https://github.com/infection/infection) ([0.35.8](https://github.com/infection/infection/releases/tag/0.35.8), 2 weeks ago) - PHP Mutation Testing library
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([7.0.1](https://github.com/sebastianbergmann/version/releases/tag/7.0.1), 4 weeks ago) - Library that helps with managing the version number of Git-hosted PHP projects
 - [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) ([6.0.1](https://github.com/sebastianbergmann/php-text-template/releases/tag/6.0.1), 1 month ago) - A simple template engine.
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) ([9.3.3](https://github.com/sebastianbergmann/environment/releases/tag/9.3.3), 1 month ago) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
 
 ---
 
