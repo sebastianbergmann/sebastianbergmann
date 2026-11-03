@@ -17,11 +17,11 @@ If you find my contributions to the PHP community valuable, I invite you to show
 - [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (1 day ago)
 - [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit (1 day ago)
 - [sebastianbergmann/choice-sequence](https://github.com/sebastianbergmann/choice-sequence) - Library for drawing, replaying, shrinking, and storing choice sequences (2 days ago)
-- [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) - Library for working with version requirements (4 days ago)
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - PHP runtime &amp; extensions header files for PhpStorm (3 days ago)
 - [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (4 days ago)
+- [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) - Library for working with version requirements (4 days ago)
 - [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories (4 days ago)
 - [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 week ago)
-- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (1 week ago)
 
 ---
 
