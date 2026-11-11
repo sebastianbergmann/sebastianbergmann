@@ -12,14 +12,14 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/object-enumerator](https://github.com/sebastianbergmann/object-enumerator) - Traverses array structures and object graphs to enumerate all referenced objects (today)
+- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (today)
 - [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (today)
+- [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (today)
-- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (today)
+- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (today)
+- [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit (today)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (today)
-- [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) - A simple template engine. (today)
 - [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (today)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation (today)
 
