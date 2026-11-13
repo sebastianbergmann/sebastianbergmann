@@ -12,12 +12,12 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastianbergmann/rattle](https://github.com/sebastianbergmann/rattle) - Coverage-guided fuzzer for PHP code that is built on choice sequences (today)
+- [sebastianbergmann/choice-sequence](https://github.com/sebastianbergmann/choice-sequence) - Library for drawing, replaying, shrinking, and storing choice sequences (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
-- [sebastianbergmann/rattle](https://github.com/sebastianbergmann/rattle) - Coverage-guided fuzzer for PHP code that is built on choice sequences (1 day ago)
 - [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (1 day ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 day ago)
 - [sebastianbergmann/phpunit-rattle-corpus](https://github.com/sebastianbergmann/phpunit-rattle-corpus) - PHPUnit test runner extension that copies the counterexamples of falsified properties into the corpus of rattle (1 day ago)
-- [sebastianbergmann/choice-sequence](https://github.com/sebastianbergmann/choice-sequence) - Library for drawing, replaying, shrinking, and storing choice sequences (1 day ago)
 - [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (2 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (2 days ago)
 - [sebastianbergmann/phar-site-generator](https://github.com/sebastianbergmann/phar-site-generator) - A tool that generates an HTML page, RSS feed, and Phive metadata for a PHAR repository (2 days ago)
