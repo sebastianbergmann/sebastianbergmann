@@ -12,10 +12,10 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/choice-sequence](https://github.com/sebastianbergmann/choice-sequence) - Library for drawing, replaying, shrinking, and storing choice sequences (1 day ago)
-- [sebastianbergmann/rattle](https://github.com/sebastianbergmann/rattle) - Coverage-guided fuzzer for PHP code that is built on choice sequences (1 day ago)
+- [sebastianbergmann/choice-sequence](https://github.com/sebastianbergmann/choice-sequence) - Library for drawing, replaying, shrinking, and storing choice sequences (today)
+- [sebastianbergmann/rattle](https://github.com/sebastianbergmann/rattle) - Coverage-guided fuzzer for PHP code that is built on choice sequences (today)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (1 day ago)
 - [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit (1 day ago)
 - [sebastianbergmann/object-graph](https://github.com/sebastianbergmann/object-graph) - Provides useful operations on PHP object graphs (2 days ago)
 - [sebastianbergmann/phpunit-rattle-corpus](https://github.com/sebastianbergmann/phpunit-rattle-corpus) - PHPUnit test runner extension that copies the counterexamples of falsified properties into the corpus of rattle (2 days ago)
