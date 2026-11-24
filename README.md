@@ -12,16 +12,16 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
-- [sebastianbergmann/rattle](https://github.com/sebastianbergmann/rattle) - Coverage-guided fuzzer for PHP code that is built on choice sequences (2 days ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (2 days ago)
-- [sebastianbergmann/phpunit-rattle-corpus](https://github.com/sebastianbergmann/phpunit-rattle-corpus) - PHPUnit test runner extension that copies the counterexamples of falsified properties into the corpus of rattle (3 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (3 days ago)
-- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book &#34;The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer&#34; by Jamis Buck. (3 days ago)
-- [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit (3 days ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (3 days ago)
+- [sebastianbergmann/php-invoker](https://github.com/sebastianbergmann/php-invoker) - Invoke PHP callables with a timeout (today)
+- [sebastianbergmann/mysqli-wrapper](https://github.com/sebastianbergmann/mysqli-wrapper) - Wrapper around PHP&#39;s mysqli extension (today)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
+- [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (today)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (today)
+- [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (today)
+- [sebastianbergmann/choice-sequence](https://github.com/sebastianbergmann/choice-sequence) - Library for drawing, replaying, shrinking, and storing choice sequences (today)
+- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (today)
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (today)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (today)
 
 ---
 
