@@ -12,29 +12,29 @@ If you find my contributions to the PHP community valuable, I invite you to show
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (today)
-- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (1 day ago)
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (2 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (2 days ago)
-- [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (2 days ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (2 days ago)
-- [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (2 days ago)
-- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (2 days ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information. (1 day ago)
+- [sebastianbergmann/phpunit-website](https://github.com/sebastianbergmann/phpunit-website) - https://phpunit.de/ (2 days ago)
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - Provides functionality to recursively process PHP variables (3 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (3 days ago)
+- [sebastianbergmann/uuid](https://github.com/sebastianbergmann/uuid) - Function for generating a UUID (as string) (3 days ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit (3 days ago)
+- [sebastianbergmann/csv-parser](https://github.com/sebastianbergmann/csv-parser) - Library for type-safe parsing of CSV files (3 days ago)
+- [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing (3 days ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths (3 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/php-src](https://github.com/php/php-src) ([php-8.4.28](https://github.com/php/php-src/releases/tag/php-8.4.28), 5 days ago) - The PHP Interpreter
+- [php/php-src](https://github.com/php/php-src) ([php-8.4.28](https://github.com/php/php-src/releases/tag/php-8.4.28), 6 days ago) - The PHP Interpreter
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.8), 1 week ago) - The PHP Unit Testing framework.
 - [infection/infection](https://github.com/infection/infection) ([0.35.12](https://github.com/infection/infection/releases/tag/0.35.12), 1 week ago) - PHP Mutation Testing library
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2026.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.3), 2 weeks ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) ([7.1.0](https://github.com/sebastianbergmann/version/releases/tag/7.1.0), 2 weeks ago) - Library that helps with managing the version number of Git-hosted PHP projects
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) ([14.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.5.2), 2 weeks ago) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
 - [sebastianbergmann/phpunit-otr-report](https://github.com/sebastianbergmann/phpunit-otr-report) ([1.0.2](https://github.com/sebastianbergmann/phpunit-otr-report/releases/tag/1.0.2), 3 weeks ago) - Generates reports from test result data in the Open Test Reporting (OTR) format produced by PHPUnit
-- [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) ([1.0.0](https://github.com/sebastianbergmann/version-requirement/releases/tag/1.0.0), 3 weeks ago) - Library for working with version requirements
+- [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) ([1.0.0](https://github.com/sebastianbergmann/version-requirement/releases/tag/1.0.0), 4 weeks ago) - Library for working with version requirements
 - [sebastianbergmann/git-state](https://github.com/sebastianbergmann/git-state) ([1.1.0](https://github.com/sebastianbergmann/git-state/releases/tag/1.1.0), 1 month ago) - Library for describing the state of a Git checkout.
 - [giorgiosironi/eris](https://github.com/giorgiosironi/eris) ([1.3.0](https://github.com/giorgiosironi/eris/releases/tag/1.3.0), 1 month ago) - Eris is a porting of Quickcheck and property-based testing tools to the PHP and PHPUnit ecosystem.
 
